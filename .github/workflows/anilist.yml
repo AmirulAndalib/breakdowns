@@ -14,6 +14,6 @@ jobs:
       - name: AniList readme workflow
         uses: pxseu/anilist-readme@senpai
         with:
-          user_id: 6088410
+          user_id: "6088410"
           timezone: "Asia/Jakarta"
-          max_post_count: 5
+          max_post_count: "5"
