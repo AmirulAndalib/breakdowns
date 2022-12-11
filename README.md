@@ -14,4 +14,11 @@
 
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
+
+-   📺 Plans to watch [Dagashi Kashi 2](https://anilist.co/anime/99734) (12:48 11 December 2022)
+-   📺 Watched episode 1 of [How a Realist Hero Rebuilt the Kingdom Part 2](https://anilist.co/anime/139648) (12:37 11 December 2022)
+-   📺 Watched episode 1 of [How a Realist Hero Rebuilt the Kingdom](https://anilist.co/anime/117612) (12:36 11 December 2022)
+-   📺 Watched episode 1 of [Dagashi Kashi 2](https://anilist.co/anime/99734) (12:35 11 December 2022)
+-   📺 Completed [Campione!](https://anilist.co/anime/12293) (11:46 11 December 2022)
+
 <!-- ANILIST_ACTIVITY:end -->
