@@ -22,3 +22,6 @@
 -   📺 Watched episode 1 of [How a Realist Hero Rebuilt the Kingdom Part 2](https://anilist.co/anime/139648) (12:37 11 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
+
+
+<!--[![](metrics.plugin.personal.anilist.svg)](https://anilist.co/user/breakdowns/)-->
