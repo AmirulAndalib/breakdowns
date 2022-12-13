@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (09:18 13 December 2022)
 -   📺 Completed [Shomin Sample](https://anilist.co/anime/20771) (03:15 13 December 2022)
 -   📺 Watched episode 1 - 2 of [Shomin Sample](https://anilist.co/anime/20771) (16:02 12 December 2022)
 -   📺 Watched episode 1 of [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/anime/129190) (15:22 12 December 2022)
 -   📺 Completed [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (14:31 12 December 2022)
--   📺 Watched episode 1 of [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (09:49 12 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
