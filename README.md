@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Shinobi no Ittoki](https://anilist.co/anime/145604) (10:30 14 December 2022)
 -   📺 Completed [A Sister's All You Need.](https://anilist.co/anime/98596) (09:14 14 December 2022)
 -   📺 Completed [Seirei Gensouki: Spirit Chronicles](https://anilist.co/anime/126546) (00:34 14 December 2022)
 -   📺 Watched episode 1 of [Seirei Gensouki: Spirit Chronicles](https://anilist.co/anime/126546) (13:55 13 December 2022)
 -   📺 Completed [Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720) (13:40 13 December 2022)
--   📺 Completed [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (09:18 13 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
