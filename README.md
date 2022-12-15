@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [LOVE FLOPS](https://anilist.co/anime/146676) (23:08 14 December 2022)
 -   📺 Watched episode 11 of [Futoku no Guild](https://anilist.co/anime/146233) (22:39 14 December 2022)
 -   📺 Watched episode 1 - 8 of [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815) (22:05 14 December 2022)
 -   📺 Watched episode 11 of [The Eminence in Shadow](https://anilist.co/anime/130298) (21:30 14 December 2022)
 -   📺 Watched episode 8 - 11 of [Shinobi no Ittoki](https://anilist.co/anime/145604) (12:32 14 December 2022)
--   📺 Completed [A Sister's All You Need.](https://anilist.co/anime/98596) (09:14 14 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
