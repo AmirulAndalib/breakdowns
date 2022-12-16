@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs](https://anilist.co/anime/142074) (23:54 15 December 2022)
 -   📺 Watched episode 1 of [Arifureta: From Commonplace to World's Strongest Season 2](https://anilist.co/anime/112323) (13:30 15 December 2022)
 -   📺 Watched episode 1 of [Plastic Memories](https://anilist.co/anime/20872) (13:07 15 December 2022)
 -   📺 Completed [Boarding School Juliet](https://anilist.co/anime/101310) (11:59 15 December 2022)
 -   📺 Watched episode 7 of [The Day I Became a God](https://anilist.co/anime/118419) (04:27 15 December 2022)
--   📺 Watched episode 1 - 11 of [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815) (00:49 15 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
