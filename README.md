@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 - 9 of [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/anime/129190) (03:48 17 December 2022)
+-   📺 Completed [Miss Caretaker of Sunohara-sou](https://anilist.co/anime/100556) (03:14 17 December 2022)
 -   📺 Watched episode 2 of [Girls Beyond the Wasteland](https://anilist.co/anime/21444) (23:04 16 December 2022)
 -   📺 Completed [Arifureta: From Commonplace to World's Strongest Season 2](https://anilist.co/anime/112323) (13:10 16 December 2022)
 -   📺 Watched episode 2 - 11 of [Arifureta: From Commonplace to World's Strongest Season 2](https://anilist.co/anime/112323) (13:10 16 December 2022)
--   📺 Watched episode 2 - 5 of [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/anime/129190) (09:38 16 December 2022)
--   📺 Completed [Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs](https://anilist.co/anime/142074) (04:32 16 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
