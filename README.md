@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815) (22:34 17 December 2022)
+-   📺 Completed [The Quintessential Quintuplets 2](https://anilist.co/anime/109261) (22:18 17 December 2022)
 -   📺 Completed [Love Tyrant](https://anilist.co/anime/21517) (15:46 17 December 2022)
 -   📺 Watched episode 10 of [Chainsaw Man](https://anilist.co/anime/127230) (14:56 17 December 2022)
 -   📺 Watched episode 12 of [Beast Tamer](https://anilist.co/anime/150695) (14:35 17 December 2022)
--   📺 Completed [The Devil is a Part-Timer! Season 2](https://anilist.co/anime/130592) (14:09 17 December 2022)
--   📺 Watched episode 4 - 11 of [The Devil is a Part-Timer! Season 2](https://anilist.co/anime/130592) (14:09 17 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
