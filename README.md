@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 - 10 of [The Devil is a Part-Timer! Season 2](https://anilist.co/anime/130592) (13:17 17 December 2022)
+-   📺 Watched episode 10 of [Chainsaw Man](https://anilist.co/anime/127230) (14:56 17 December 2022)
+-   📺 Watched episode 12 of [Beast Tamer](https://anilist.co/anime/150695) (14:35 17 December 2022)
+-   📺 Completed [The Devil is a Part-Timer! Season 2](https://anilist.co/anime/130592) (14:09 17 December 2022)
+-   📺 Watched episode 4 - 11 of [The Devil is a Part-Timer! Season 2](https://anilist.co/anime/130592) (14:09 17 December 2022)
 -   📺 Watched episode 6 - 9 of [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/anime/129190) (03:48 17 December 2022)
--   📺 Completed [Miss Caretaker of Sunohara-sou](https://anilist.co/anime/100556) (03:14 17 December 2022)
--   📺 Watched episode 2 of [Girls Beyond the Wasteland](https://anilist.co/anime/21444) (23:04 16 December 2022)
--   📺 Completed [Arifureta: From Commonplace to World's Strongest Season 2](https://anilist.co/anime/112323) (13:10 16 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
