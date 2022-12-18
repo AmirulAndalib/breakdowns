@@ -15,7 +15,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 of [Skeleton Knight in Another World](https://anilist.co/anime/132474) (02:13 18 December 2022)
+-   📺 Watched episode 4 - 10 of [Skeleton Knight in Another World](https://anilist.co/anime/132474) (04:30 18 December 2022)
 -   📺 Completed [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/anime/129190) (00:06 18 December 2022)
 -   📺 Watched episode 10 - 11 of [The Genius Prince's Guide to Raising a Nation Out of Debt](https://anilist.co/anime/129190) (00:06 18 December 2022)
 -   📺 Completed [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815) (22:34 17 December 2022)
