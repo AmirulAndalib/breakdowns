@@ -15,7 +15,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 of [Golden Time](https://anilist.co/anime/17895) (15:07 19 December 2022)
+-   📺 Watched episode 3 - 7 of [Golden Time](https://anilist.co/anime/17895) (21:54 19 December 2022)
 -   📺 Watched episode 6 - 10 of [Seiren](https://anilist.co/anime/97730) (14:04 19 December 2022)
 -   📺 Completed [LOVE and LIES OVA](https://anilist.co/anime/101501) (06:53 19 December 2022)
 -   📺 Completed [LOVE and LIES](https://anilist.co/anime/98320) (05:01 19 December 2022)
