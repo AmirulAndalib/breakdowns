@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 of [My Girlfriend is Shobitch](https://anilist.co/anime/98951) (23:11 18 December 2022)
+-   📺 Watched episode 1 of [LOVE and LIES](https://anilist.co/anime/98320) (00:52 19 December 2022)
+-   📺 Watched episode 6 - 7 of [My Girlfriend is Shobitch](https://anilist.co/anime/98951) (00:52 19 December 2022)
 -   📺 Watched episode 11 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (14:26 18 December 2022)
 -   📺 Completed [Arifureta: From Commonplace to World's Strongest](https://anilist.co/anime/100668) (13:14 18 December 2022)
 -   📺 Completed [Skeleton Knight in Another World](https://anilist.co/anime/132474) (06:37 18 December 2022)
--   📺 Watched episode 4 - 11 of [Skeleton Knight in Another World](https://anilist.co/anime/132474) (05:18 18 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
