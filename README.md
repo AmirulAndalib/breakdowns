@@ -15,7 +15,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 of [Seiren](https://anilist.co/anime/97730) (11:39 19 December 2022)
+-   📺 Watched episode 6 - 10 of [Seiren](https://anilist.co/anime/97730) (14:04 19 December 2022)
 -   📺 Completed [LOVE and LIES OVA](https://anilist.co/anime/101501) (06:53 19 December 2022)
 -   📺 Completed [LOVE and LIES](https://anilist.co/anime/98320) (05:01 19 December 2022)
 -   📺 Watched episode 1 - 9 of [LOVE and LIES](https://anilist.co/anime/98320) (05:00 19 December 2022)
