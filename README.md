@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [ReLIFE: Final Arc](https://anilist.co/anime/98635) (14:02 20 December 2022)
 -   📺 Completed [ReLIFE](https://anilist.co/anime/21049) (12:18 20 December 2022)
 -   📺 Completed [Golden Time](https://anilist.co/anime/17895) (06:49 20 December 2022)
 -   📺 Watched episode 3 - 15 of [Golden Time](https://anilist.co/anime/17895) (02:32 20 December 2022)
 -   📺 Completed [Seiren](https://anilist.co/anime/97730) (02:32 20 December 2022)
--   📺 Watched episode 11 of [Seiren](https://anilist.co/anime/97730) (02:32 20 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
