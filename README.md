@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Chainsaw Man](https://anilist.co/anime/127230) (03:47 21 December 2022)
+-   📺 Completed [The Kawai Complex Guide to Manors and Hostel Behavior: First Time](https://anilist.co/anime/20780) (03:26 21 December 2022)
 -   📺 Completed [The Kawai Complex Guide to Manors and Hostel Behavior](https://anilist.co/anime/20529) (02:42 21 December 2022)
 -   📺 Watched episode 6 of [The Kawai Complex Guide to Manors and Hostel Behavior](https://anilist.co/anime/20529) (22:04 20 December 2022)
 -   📺 Completed [ReLIFE: Final Arc](https://anilist.co/anime/98635) (14:02 20 December 2022)
--   📺 Completed [ReLIFE](https://anilist.co/anime/21049) (12:18 20 December 2022)
--   📺 Completed [Golden Time](https://anilist.co/anime/17895) (06:49 20 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
