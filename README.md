@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Futoku no Guild](https://anilist.co/anime/146233) (23:40 21 December 2022)
 -   📺 Watched episode 12 of [The Eminence in Shadow](https://anilist.co/anime/130298) (21:25 21 December 2022)
 -   📺 Watched episode 3 of [The Rising of the Shield Hero](https://anilist.co/anime/99263) (14:26 21 December 2022)
 -   📺 Completed [Just Because!](https://anilist.co/anime/98820) (09:19 21 December 2022)
 -   📺 Completed [Shinobi no Ittoki](https://anilist.co/anime/145604) (04:04 21 December 2022)
--   📺 Watched episode 11 of [Chainsaw Man](https://anilist.co/anime/127230) (03:47 21 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
