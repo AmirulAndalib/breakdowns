@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Handa-kun](https://anilist.co/anime/21626) (04:03 23 December 2022)
+-   📺 Watched episode 2 of [My Little Monster](https://anilist.co/anime/14227) (04:03 23 December 2022)
 -   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (01:39 23 December 2022)
 -   📺 Watched episode 7 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (23:03 22 December 2022)
 -   📺 Completed [The Rising of the Shield Hero](https://anilist.co/anime/99263) (11:21 22 December 2022)
--   📺 Watched episode 4 - 14 of [The Rising of the Shield Hero](https://anilist.co/anime/99263) (04:57 22 December 2022)
--   📺 Completed [Futoku no Guild](https://anilist.co/anime/146233) (23:40 21 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
