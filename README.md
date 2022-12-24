@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Case Study of Vanitas Part 2](https://anilist.co/anime/135136) (05:19 24 December 2022)
 -   📺 Watched episode 1 of [The Case Study of Vanitas Part 2](https://anilist.co/anime/135136) (00:00 24 December 2022)
 -   📺 Completed [The Case Study of Vanitas](https://anilist.co/anime/131646) (00:00 24 December 2022)
 -   📺 Watched episode 10 of [The Case Study of Vanitas](https://anilist.co/anime/131646) (21:57 23 December 2022)
 -   📺 Watched episode 4 - 10 of [Lord Marksman and Vanadis](https://anilist.co/anime/20809) (14:04 23 December 2022)
--   📺 Completed [Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou](https://anilist.co/anime/146921) (13:07 23 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
