@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [High School DxD HERO](https://anilist.co/anime/97767) (02:21 25 December 2022)
--   📺 Watched episode 1 of [Ouji no Honmei wa Akuyaku Reijou](https://anilist.co/anime/135848) (16:05 24 December 2022)
--   📺 Watched episode 2 of [I'm the Villainess, So I'm Taming the Final Boss](https://anilist.co/anime/139820) (16:03 24 December 2022)
--   📺 Completed [Beast Tamer](https://anilist.co/anime/150695) (14:28 24 December 2022)
--   📺 Completed [Lord Marksman and Vanadis](https://anilist.co/anime/20809) (10:32 24 December 2022)
+-   📺 Completed [High School DxD New OVA Oppai, Tsutsumimasu!](https://anilist.co/anime/21103) (02:26 25 December 2022)
+-   📺 Completed [Chivalry of a Failed Knight](https://anilist.co/anime/21092) (02:25 25 December 2022)
+-   📺 Completed [High School DxD OVA](https://anilist.co/anime/12729) (02:25 25 December 2022)
+-   📺 Completed [Yuuna and the Haunted Hot Springs](https://anilist.co/anime/100483) (02:24 25 December 2022)
+-   📺 Completed [Harem in the Labyrinth of Another World](https://anilist.co/anime/127090) (02:24 25 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
