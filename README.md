@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Seven Senses of the Re'Union](https://anilist.co/anime/100085) (15:40 25 December 2022)
 -   📺 Completed [My Stepmom's Daughter is My Ex](https://anilist.co/anime/136934) (14:31 25 December 2022)
 -   📺 Completed [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (14:31 25 December 2022)
 -   📺 Completed [TONIKAWA: Over The Moon For You](https://anilist.co/anime/116267) (14:31 25 December 2022)
 -   📺 Completed [My First Girlfriend is a Gal](https://anilist.co/anime/97863) (14:31 25 December 2022)
--   📺 Completed [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (14:31 25 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
