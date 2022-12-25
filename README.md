@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [High School DxD HERO](https://anilist.co/anime/97767) (02:21 25 December 2022)
 -   📺 Watched episode 1 of [Ouji no Honmei wa Akuyaku Reijou](https://anilist.co/anime/135848) (16:05 24 December 2022)
 -   📺 Watched episode 2 of [I'm the Villainess, So I'm Taming the Final Boss](https://anilist.co/anime/139820) (16:03 24 December 2022)
 -   📺 Completed [Beast Tamer](https://anilist.co/anime/150695) (14:28 24 December 2022)
 -   📺 Completed [Lord Marksman and Vanadis](https://anilist.co/anime/20809) (10:32 24 December 2022)
--   📺 Completed [The Case Study of Vanitas Part 2](https://anilist.co/anime/135136) (05:19 24 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
