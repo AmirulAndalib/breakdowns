@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Kiss x Sis](https://anilist.co/anime/5042) (12:58 26 December 2022)
 -   📺 Completed [kiss×sis (TV)](https://anilist.co/anime/7593) (10:06 26 December 2022)
 -   📺 Completed [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (03:48 26 December 2022)
 -   📺 Completed [Ouji no Honmei wa Akuyaku Reijou](https://anilist.co/anime/135848) (23:59 25 December 2022)
 -   📺 Watched episode 2 of [Seven Senses of the Re'Union](https://anilist.co/anime/100085) (15:40 25 December 2022)
--   📺 Completed [My Stepmom's Daughter is My Ex](https://anilist.co/anime/136934) (14:31 25 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
