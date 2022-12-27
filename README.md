@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 19 of [Plunderer](https://anilist.co/anime/101168) (07:56 27 December 2022)
--   📺 Completed [Kiss x Sis](https://anilist.co/anime/5042) (12:58 26 December 2022)
--   📺 Completed [kiss×sis (TV)](https://anilist.co/anime/7593) (10:06 26 December 2022)
--   📺 Completed [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (03:48 26 December 2022)
--   📺 Completed [Ouji no Honmei wa Akuyaku Reijou](https://anilist.co/anime/135848) (23:59 25 December 2022)
+-   📺 Completed [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (09:41 27 December 2022)
+-   📺 Completed [Anti-Magic Academy: The 35th Test Platoon](https://anilist.co/anime/20704) (09:40 27 December 2022)
+-   📺 Completed [Uzaki-chan Wants to Hang Out!](https://anilist.co/anime/115113) (09:39 27 December 2022)
+-   📺 Completed [How NOT to Summon a Demon Lord Ω](https://anilist.co/anime/117448) (09:38 27 December 2022)
+-   📺 Completed [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (09:38 27 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
