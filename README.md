@@ -15,7 +15,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 13 of [Plunderer](https://anilist.co/anime/101168) (04:15 27 December 2022)
+-   📺 Watched episode 3 - 19 of [Plunderer](https://anilist.co/anime/101168) (07:56 27 December 2022)
 -   📺 Completed [Kiss x Sis](https://anilist.co/anime/5042) (12:58 26 December 2022)
 -   📺 Completed [kiss×sis (TV)](https://anilist.co/anime/7593) (10:06 26 December 2022)
 -   📺 Completed [Yosuga no Sora: In Solitude Where We are Least Alone](https://anilist.co/anime/8861) (03:48 26 December 2022)
