@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (04:25 28 December 2022)
 -   📺 Watched episode 1 - 8 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (01:48 28 December 2022)
 -   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (21:26 27 December 2022)
 -   📺 Completed [Classroom of the Elite](https://anilist.co/anime/98659) (15:58 27 December 2022)
 -   📺 Watched episode 8 - 11 of [Classroom of the Elite](https://anilist.co/anime/98659) (15:58 27 December 2022)
--   📺 Completed [The Testament of Sister New Devil BURST](https://anilist.co/anime/21110) (09:41 27 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
