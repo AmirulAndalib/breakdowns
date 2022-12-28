@@ -15,7 +15,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (22:02 27 December 2022)
+-   📺 Watched episode 1 - 8 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (01:48 28 December 2022)
 -   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (21:26 27 December 2022)
 -   📺 Completed [Classroom of the Elite](https://anilist.co/anime/98659) (15:58 27 December 2022)
 -   📺 Watched episode 8 - 11 of [Classroom of the Elite](https://anilist.co/anime/98659) (15:58 27 December 2022)
