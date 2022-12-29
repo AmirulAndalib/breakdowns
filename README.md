@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Maoyu: Archenemy & Hero](https://anilist.co/anime/14833) (14:02 29 December 2022)
 -   📺 Watched episode 3 of [ASSASSINS PRIDE](https://anilist.co/anime/104722) (12:47 29 December 2022)
 -   📺 Plans to watch [Farming Life in Another World](https://anilist.co/anime/146850) (10:01 29 December 2022)
 -   📺 Completed [Black Summoner](https://anilist.co/anime/145260) (09:30 29 December 2022)
 -   📺 Watched episode 3 of [Black Summoner](https://anilist.co/anime/145260) (04:04 29 December 2022)
--   📺 Completed [LOVE FLOPS](https://anilist.co/anime/146676) (22:33 28 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
