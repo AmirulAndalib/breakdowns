@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Farming Life in Another World](https://anilist.co/anime/146850) (10:01 29 December 2022)
+-   📺 Completed [Black Summoner](https://anilist.co/anime/145260) (09:30 29 December 2022)
 -   📺 Watched episode 3 of [Black Summoner](https://anilist.co/anime/145260) (04:04 29 December 2022)
 -   📺 Completed [LOVE FLOPS](https://anilist.co/anime/146676) (22:33 28 December 2022)
 -   📺 Completed [Yamada and the Seven Witches (OVA)](https://anilist.co/anime/20740) (21:55 28 December 2022)
--   📺 Watched episode 13 of [The Eminence in Shadow](https://anilist.co/anime/130298) (16:20 28 December 2022)
--   📺 Completed [Yamada and the Seven Witches](https://anilist.co/anime/20966) (14:48 28 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
