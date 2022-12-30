@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (05:02 30 December 2022)
+-   📺 Watched episode 1 of [Uncle from Another World](https://anilist.co/anime/135806) (04:50 30 December 2022)
+-   📺 Watched episode 4 - 5 of [ASSASSINS PRIDE](https://anilist.co/anime/104722) (04:50 30 December 2022)
 -   📺 Completed [Kimekoi! Takane no Hana to Osananajimi ga Kimatta Riyuu](https://anilist.co/anime/99556) (03:08 30 December 2022)
 -   📺 Completed [Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii](https://anilist.co/anime/132203) (03:05 30 December 2022)
--   📺 Watched episode 3 of [Maoyu: Archenemy & Hero](https://anilist.co/anime/14833) (14:02 29 December 2022)
--   📺 Watched episode 3 of [ASSASSINS PRIDE](https://anilist.co/anime/104722) (12:47 29 December 2022)
--   📺 Plans to watch [Farming Life in Another World](https://anilist.co/anime/146850) (10:01 29 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
