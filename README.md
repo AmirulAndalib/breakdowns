@@ -15,7 +15,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [The 8th Son? Are You Kidding Me?](https://anilist.co/anime/106319) (15:34 30 December 2022)
+-   📺 Watched episode 1 - 8 of [The 8th Son? Are You Kidding Me?](https://anilist.co/anime/106319) (22:00 30 December 2022)
 -   📺 Completed [Ecchi with a Rural Russian Housewife](https://anilist.co/anime/100003) (14:08 30 December 2022)
 -   📺 Completed [Maoyu: Archenemy & Hero](https://anilist.co/anime/14833) (12:35 30 December 2022)
 -   📺 Completed [ASSASSINS PRIDE](https://anilist.co/anime/104722) (11:24 30 December 2022)
