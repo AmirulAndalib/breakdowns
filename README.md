@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [ASSASSINS PRIDE](https://anilist.co/anime/104722) (11:24 30 December 2022)
 -   📺 Completed [MILF Park](https://anilist.co/anime/100288) (09:34 30 December 2022)
 -   📺 Completed [Mankitsu Happening](https://anilist.co/anime/21222) (08:38 30 December 2022)
 -   📺 Watched episode 4 - 7 of [ASSASSINS PRIDE](https://anilist.co/anime/104722) (07:49 30 December 2022)
 -   📺 Watched episode 4 - 10 of [Maoyu: Archenemy & Hero](https://anilist.co/anime/14833) (07:48 30 December 2022)
--   📺 Plans to watch [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (05:02 30 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
