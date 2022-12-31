@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [The Strongest Sage with the Weakest Crest](https://anilist.co/anime/129191) (10:02 31 December 2022)
+-   📺 Watched episode 3 of [By the Grace of the Gods](https://anilist.co/anime/115740) (13:51 31 December 2022)
+-   📺 Watched episode 2 - 8 of [The Strongest Sage with the Weakest Crest](https://anilist.co/anime/129191) (13:20 31 December 2022)
+-   📺 Completed [Cautious Hero: The Hero Is Overpowered but Overly Cautious](https://anilist.co/anime/105156) (13:19 31 December 2022)
 -   📺 Completed [The 8th Son? Are You Kidding Me?](https://anilist.co/anime/106319) (09:34 31 December 2022)
 -   📺 Watched episode 1 of [Cautious Hero: The Hero Is Overpowered but Overly Cautious](https://anilist.co/anime/105156) (02:23 31 December 2022)
--   📺 Watched episode 1 - 8 of [The 8th Son? Are You Kidding Me?](https://anilist.co/anime/106319) (22:00 30 December 2022)
--   📺 Completed [Ecchi with a Rural Russian Housewife](https://anilist.co/anime/100003) (14:08 30 December 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
