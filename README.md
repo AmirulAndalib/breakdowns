@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 5 of [Seven Senses of the Re'Union](https://anilist.co/anime/100085) (23:54 01 January 2023)
 -   📺 Completed [Lovely ♡](https://anilist.co/anime/110336) (09:05 01 January 2023)
 -   📺 Completed [The Strongest Sage with the Weakest Crest](https://anilist.co/anime/129191) (07:41 01 January 2023)
 -   📺 Watched episode 9 - 11 of [The Strongest Sage with the Weakest Crest](https://anilist.co/anime/129191) (07:40 01 January 2023)
 -   📺 Completed [By the Grace of the Gods](https://anilist.co/anime/115740) (01:32 01 January 2023)
--   📺 Plans to watch [By the Grace of the Gods Season 2](https://anilist.co/anime/135102) (01:32 01 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
