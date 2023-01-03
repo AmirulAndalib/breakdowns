@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 of [Noblesse](https://anilist.co/anime/116005) (13:21 03 January 2023)
+-   📺 Watched episode 1 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (15:46 03 January 2023)
+-   📺 Watched episode 3 - 8 of [Noblesse](https://anilist.co/anime/116005) (15:46 03 January 2023)
 -   📺 Watched episode 5 of [Taisho Otome Fairy Tale](https://anilist.co/anime/127412) (12:57 03 January 2023)
 -   📺 Completed [Death March to the Parallel World Rhapsody](https://anilist.co/anime/97907) (09:40 03 January 2023)
 -   📺 Watched episode 3 of [Death March to the Parallel World Rhapsody](https://anilist.co/anime/97907) (04:17 03 January 2023)
--   📺 Completed [TSUKIMICHI -Moonlit Fantasy-](https://anilist.co/anime/125206) (03:27 03 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
