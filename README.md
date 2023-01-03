@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [TSUKIMICHI -Moonlit Fantasy-](https://anilist.co/anime/125206) (03:27 03 January 2023)
 -   📺 Watched episode 1 of [TSUKIMICHI -Moonlit Fantasy-](https://anilist.co/anime/125206) (13:14 02 January 2023)
 -   📺 Completed [Seven Senses of the Re'Union](https://anilist.co/anime/100085) (12:51 02 January 2023)
 -   📺 Completed [I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity](https://anilist.co/anime/151126) (09:21 02 January 2023)
 -   📺 Completed [I’m Quitting Heroing](https://anilist.co/anime/140457) (07:08 02 January 2023)
--   📺 Watched episode 1 - 9 of [I’m Quitting Heroing](https://anilist.co/anime/140457) (04:25 02 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
