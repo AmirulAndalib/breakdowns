@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (13:08 04 January 2023)
+-   📺 Watched episode 3 of [The Asterisk War](https://anilist.co/anime/21131) (13:08 04 January 2023)
 -   📺 Completed [Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside](https://anilist.co/anime/126213) (11:06 04 January 2023)
 -   📺 Completed [Taisho Otome Fairy Tale](https://anilist.co/anime/127412) (04:21 04 January 2023)
 -   📺 Completed [Noblesse](https://anilist.co/anime/116005) (01:17 04 January 2023)
--   📺 Watched episode 1 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (22:40 03 January 2023)
--   📺 Watched episode 1 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (15:46 03 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
