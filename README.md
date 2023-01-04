@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Noblesse](https://anilist.co/anime/116005) (01:17 04 January 2023)
 -   📺 Watched episode 1 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (22:40 03 January 2023)
 -   📺 Watched episode 1 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (15:46 03 January 2023)
 -   📺 Watched episode 3 - 8 of [Noblesse](https://anilist.co/anime/116005) (15:46 03 January 2023)
 -   📺 Watched episode 5 of [Taisho Otome Fairy Tale](https://anilist.co/anime/127412) (12:57 03 January 2023)
--   📺 Completed [Death March to the Parallel World Rhapsody](https://anilist.co/anime/97907) (09:40 03 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
