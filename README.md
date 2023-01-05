@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (12:57 05 January 2023)
 -   📺 Watched episode 1 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (08:05 05 January 2023)
 -   📺 Completed [The Asterisk War](https://anilist.co/anime/21131) (03:33 05 January 2023)
 -   📺 Watched episode 1 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (00:29 05 January 2023)
 -   📺 Watched episode 1 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (22:29 04 January 2023)
--   📺 Plans to watch [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://anilist.co/anime/146066) (22:04 04 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
