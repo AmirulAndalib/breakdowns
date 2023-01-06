@@ -15,9 +15,9 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Isekai Cheat Magician](https://anilist.co/anime/101547) (14:26 06 January 2023)
 -   📺 Watched episode 1 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (13:40 06 January 2023)
 -   📺 Watched episode 1 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (13:29 06 January 2023)
--   📺 Watched episode 1 of [Isekai Cheat Magician](https://anilist.co/anime/101547) (10:17 06 January 2023)
 -   📺 Completed [High School Prodigies Have It Easy Even In Another World](https://anilist.co/anime/108388) (09:21 06 January 2023)
 -   📺 Watched episode 1 of [High School Prodigies Have It Easy Even In Another World](https://anilist.co/anime/108388) (03:00 06 January 2023)
 
