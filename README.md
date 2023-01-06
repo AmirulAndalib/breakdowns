@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [High School Prodigies Have It Easy Even In Another World](https://anilist.co/anime/108388) (09:21 06 January 2023)
 -   📺 Watched episode 1 of [High School Prodigies Have It Easy Even In Another World](https://anilist.co/anime/108388) (03:00 06 January 2023)
 -   📺 Completed [Suppose a Kid from the Last Dungeon Boonies moved to a starter town?](https://anilist.co/anime/112649) (02:59 06 January 2023)
 -   📺 Watched episode 1 of [Spy Classroom](https://anilist.co/anime/146323) (22:09 05 January 2023)
 -   📺 Watched episode 1 of [Suppose a Kid from the Last Dungeon Boonies moved to a starter town?](https://anilist.co/anime/112649) (13:37 05 January 2023)
--   📺 Completed [The Fruit of Evolution: Before I Knew It, My Life Had It Made](https://anilist.co/anime/129068) (12:57 05 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
