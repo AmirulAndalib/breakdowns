@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571) (23:46 06 January 2023)
+-   📺 Watched episode 1 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (23:46 06 January 2023)
+-   📺 Completed [Isekai Cheat Magician: Magicians and the Starry Night Festival](https://anilist.co/anime/136263) (23:06 06 January 2023)
+-   📺 Completed [Isekai Cheat Magician](https://anilist.co/anime/101547) (23:06 06 January 2023)
 -   📺 Plans to watch [Tsuki ga Michibiku Isekai Douchuu 2](https://anilist.co/anime/139518) (22:01 06 January 2023)
--   📺 Plans to watch [The Fruit of Evolution 2: Before I Knew It, My Life Had It Made](https://anilist.co/anime/146954) (22:00 06 January 2023)
--   📺 Watched episode 1 of [Farming Life in Another World](https://anilist.co/anime/146850) (15:19 06 January 2023)
--   📺 Watched episode 1 - 8 of [Isekai Cheat Magician](https://anilist.co/anime/101547) (14:26 06 January 2023)
--   📺 Watched episode 1 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (13:40 06 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
