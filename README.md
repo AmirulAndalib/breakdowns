@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (21:11 07 January 2023)
 -   📺 Watched episode 1 - 6 of [I'm Standing on a Million Lives](https://anilist.co/anime/116242) (15:11 07 January 2023)
 -   📺 Completed [My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!](https://anilist.co/anime/129192) (12:44 07 January 2023)
 -   📺 Watched episode 1 of [My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!](https://anilist.co/anime/129192) (08:07 07 January 2023)
 -   📺 Completed [In Another World With My Smartphone](https://anilist.co/anime/98491) (07:59 07 January 2023)
--   📺 Watched episode 1 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (04:51 07 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
