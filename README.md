@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!](https://anilist.co/anime/129192) (12:44 07 January 2023)
 -   📺 Watched episode 1 of [My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!](https://anilist.co/anime/129192) (08:07 07 January 2023)
 -   📺 Completed [In Another World With My Smartphone](https://anilist.co/anime/98491) (07:59 07 January 2023)
 -   📺 Watched episode 1 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (04:51 07 January 2023)
 -   📺 Plans to watch [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571) (23:46 06 January 2023)
--   📺 Watched episode 1 of [In Another World With My Smartphone](https://anilist.co/anime/98491) (23:46 06 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
