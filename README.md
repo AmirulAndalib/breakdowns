@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Ane wa Yanmama Junyuu-chuu](https://anilist.co/anime/115138) (22:43 07 January 2023)
+-   📺 Completed [Uwaki to Honki THE ANIMATION](https://anilist.co/anime/120506) (22:42 07 January 2023)
+-   📺 Watched episode 1 of [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (22:06 07 January 2023)
+-   📺 Watched episode 1 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (22:05 07 January 2023)
 -   📺 Watched episode 1 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (21:11 07 January 2023)
--   📺 Watched episode 1 - 6 of [I'm Standing on a Million Lives](https://anilist.co/anime/116242) (15:11 07 January 2023)
--   📺 Completed [My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!](https://anilist.co/anime/129192) (12:44 07 January 2023)
--   📺 Watched episode 1 of [My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!](https://anilist.co/anime/129192) (08:07 07 January 2023)
--   📺 Completed [In Another World With My Smartphone](https://anilist.co/anime/98491) (07:59 07 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
