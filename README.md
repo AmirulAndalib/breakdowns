@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Seirei Gensouki 2nd Season](https://anilist.co/anime/141182) (08:48 11 January 2023)
 -   📺 Watched episode 1 of [Campfire Cooking in Another World with my Absurd Skill](https://anilist.co/anime/156067) (02:42 11 January 2023)
 -   📺 Completed [Strike the Blood FINAL](https://anilist.co/anime/136226) (02:06 11 January 2023)
 -   📺 Watched episode 1 of [Strike the Blood FINAL](https://anilist.co/anime/136226) (23:48 10 January 2023)
 -   📺 Completed [Strike the Blood IV](https://anilist.co/anime/112296) (23:48 10 January 2023)
--   📺 Watched episode 1 - 8 of [Strike the Blood IV](https://anilist.co/anime/112296) (15:22 10 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
