@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Strike the Blood FINAL](https://anilist.co/anime/136226) (02:06 11 January 2023)
 -   📺 Watched episode 1 of [Strike the Blood FINAL](https://anilist.co/anime/136226) (23:48 10 January 2023)
 -   📺 Completed [Strike the Blood IV](https://anilist.co/anime/112296) (23:48 10 January 2023)
 -   📺 Watched episode 1 - 8 of [Strike the Blood IV](https://anilist.co/anime/112296) (15:22 10 January 2023)
 -   📺 Watched episode 2 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (14:54 10 January 2023)
--   📺 Watched episode 2 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (14:26 10 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
