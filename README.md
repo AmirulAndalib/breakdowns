@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (13:02 11 January 2023)
+-   📺 Completed [Demoness of Dreams](https://anilist.co/anime/100004) (12:09 11 January 2023)
+-   📺 Completed [Gakuen de Jikan yo Tomare](https://anilist.co/anime/21146) (12:04 11 January 2023)
 -   📺 Plans to watch [Seirei Gensouki 2nd Season](https://anilist.co/anime/141182) (08:48 11 January 2023)
 -   📺 Watched episode 1 of [Campfire Cooking in Another World with my Absurd Skill](https://anilist.co/anime/156067) (02:42 11 January 2023)
--   📺 Completed [Strike the Blood FINAL](https://anilist.co/anime/136226) (02:06 11 January 2023)
--   📺 Watched episode 1 of [Strike the Blood FINAL](https://anilist.co/anime/136226) (23:48 10 January 2023)
--   📺 Completed [Strike the Blood IV](https://anilist.co/anime/112296) (23:48 10 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
