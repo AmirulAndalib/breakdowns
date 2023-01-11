@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (22:25 11 January 2023)
 -   📺 Watched episode 15 of [The Eminence in Shadow](https://anilist.co/anime/130298) (20:16 11 January 2023)
 -   📺 Plans to watch [Otomege Sekai wa Mob ni Kibishii Sekai desu 2nd Season](https://anilist.co/anime/159309) (16:14 11 January 2023)
 -   📺 Watched episode 1 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (13:55 11 January 2023)
 -   📺 Watched episode 8 of [I'm Standing on a Million Lives Season 2](https://anilist.co/anime/127366) (13:35 11 January 2023)
--   📺 Watched episode 2 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (13:02 11 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
