@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (21:58 12 January 2023)
+-   📺 Watched episode 2 of [Spy Classroom](https://anilist.co/anime/146323) (21:58 12 January 2023)
 -   📺 Plans to watch [Masamune-kun's Revenge R](https://anilist.co/anime/146953) (14:32 12 January 2023)
 -   📺 Plans to watch [Jaku-Chara Tomozaki-kun (Shin Anime)](https://anilist.co/anime/143866) (14:26 12 January 2023)
 -   📺 Completed [My Girlfriend is Shobitch OVA](https://anilist.co/anime/100518) (03:08 12 January 2023)
--   📺 Completed [My Girlfriend is Shobitch](https://anilist.co/anime/98951) (03:08 12 January 2023)
--   📺 Completed [I'm Standing on a Million Lives Season 2](https://anilist.co/anime/127366) (00:21 12 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
