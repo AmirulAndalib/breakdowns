@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Welcome to Demon School! Iruma-kun Season 2](https://anilist.co/anime/116338) (12:43 13 January 2023)
+-   📺 Completed [Welcome to Demon School! Iruma-kun](https://anilist.co/anime/107693) (12:43 13 January 2023)
 -   📺 Watched episode 5 of [Welcome to Demon School! Iruma-kun](https://anilist.co/anime/107693) (03:51 13 January 2023)
 -   📺 Watched episode 2 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (01:11 13 January 2023)
 -   📺 Plans to watch [Hataraku Maou-sama!! (Zoku-hen)](https://anilist.co/anime/155168) (22:41 12 January 2023)
--   📺 Plans to watch [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845) (22:40 12 January 2023)
--   📺 Plans to watch [Date A Live V](https://anilist.co/anime/151380) (22:40 12 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
