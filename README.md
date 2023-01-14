@@ -15,7 +15,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 13 of [Welcome to Demon School! Iruma-kun Season 3](https://anilist.co/anime/139092) (10:53 14 January 2023)
+-   📺 Watched episode 1 - 14 of [Welcome to Demon School! Iruma-kun Season 3](https://anilist.co/anime/139092) (12:27 14 January 2023)
 -   📺 Completed [Only My Oppai Soul](https://anilist.co/anime/99818) (09:03 14 January 2023)
 -   📺 Completed [Sizzling Siblings](https://anilist.co/anime/16642) (08:42 14 January 2023)
 -   📺 Watched episode 2 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (07:06 14 January 2023)
