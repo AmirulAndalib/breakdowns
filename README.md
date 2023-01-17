@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (23:17 16 January 2023)
 -   📺 Watched episode 2 of [Ayakashi Triangle](https://anilist.co/anime/142849) (22:31 16 January 2023)
 -   📺 Completed [Handa-kun](https://anilist.co/anime/21626) (04:03 16 January 2023)
 -   📺 Watched episode 2 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (22:30 15 January 2023)
 -   📺 Plans to watch [Yahari Ore no Seishun Love Come wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.](https://anilist.co/anime/128643) (21:44 15 January 2023)
--   📺 Watched episode 2 of [By the Grace of the Gods 2](https://anilist.co/anime/135102) (13:28 15 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
