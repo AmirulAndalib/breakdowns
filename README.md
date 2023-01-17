@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Infinite Dendrogram](https://anilist.co/anime/107420) (03:37 17 January 2023)
--   📺 Watched episode 2 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (23:17 16 January 2023)
--   📺 Watched episode 2 of [Ayakashi Triangle](https://anilist.co/anime/142849) (22:31 16 January 2023)
--   📺 Completed [Handa-kun](https://anilist.co/anime/21626) (04:03 16 January 2023)
--   📺 Watched episode 2 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (22:30 15 January 2023)
+-   📺 Watched episode 1 - 3 of [Koikimo](https://anilist.co/anime/114840) (21:59 17 January 2023)
+-   📺 Watched episode 2 of [Campfire Cooking in Another World with my Absurd Skill](https://anilist.co/anime/156067) (21:59 17 January 2023)
+-   📺 Watched episode 3 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (15:03 17 January 2023)
+-   📺 Watched episode 3 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (14:42 17 January 2023)
+-   📺 Completed [Heartful Maman THE ANIMATION](https://anilist.co/anime/99685) (06:17 17 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
