@@ -15,7 +15,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Orange](https://anilist.co/anime/21647) (12:15 18 January 2023)
+-   📺 Watched episode 1 - 8 of [Orange](https://anilist.co/anime/21647) (15:25 18 January 2023)
 -   📺 Completed [Koikimo](https://anilist.co/anime/114840) (03:15 18 January 2023)
 -   📺 Completed [Bottom-Tier Character Tomozaki OVA](https://anilist.co/anime/127363) (22:04 17 January 2023)
 -   📺 Watched episode 1 - 3 of [Koikimo](https://anilist.co/anime/114840) (21:59 17 January 2023)
