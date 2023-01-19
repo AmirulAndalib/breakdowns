@@ -259,7 +259,7 @@ if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
     # List Activity
-    data = fetch_activity(TOKEN, userId=6088410)
+    data = fetch_activity(TOKEN, userId=161753)
     res = "\n".join(
         [
             "* [{status} {progress}]({activity_url}) of [{title}]({url})".format(**x)
