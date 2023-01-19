@@ -22,3 +22,9 @@
 -   📺 Watched episode 3 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (23:27 18 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
+
+<details>
+<summary>:bar_chart: Recent Anilist Activity</summary>
+<!-- anilist_activity ends -->
+
+</details>
