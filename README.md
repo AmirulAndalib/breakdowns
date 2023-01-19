@@ -15,11 +15,11 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Mikakunin de Shinkoukei: Kamo Nikutte Midori-ppoi Aji ga suru no ne.](https://anilist.co/anime/20687) (11:26 19 January 2023)
+-   📺 Completed [Engaged to the Unidentified: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.](https://anilist.co/anime/20633) (11:26 19 January 2023)
+-   📺 Completed [Engaged to the Unidentified](https://anilist.co/anime/20483) (11:25 19 January 2023)
 -   📺 Watched episode 1 of [Engaged to the Unidentified](https://anilist.co/anime/20483) (02:59 19 January 2023)
 -   📺 Completed [Ao-chan Can't Study!](https://anilist.co/anime/105989) (02:40 19 January 2023)
--   📺 Watched episode 3 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (00:49 19 January 2023)
--   📺 Watched episode 1 of [Ao-chan Can't Study!](https://anilist.co/anime/105989) (23:52 18 January 2023)
--   📺 Watched episode 3 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (23:27 18 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
