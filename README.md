@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Ao-chan Can't Study!](https://anilist.co/anime/105989) (23:52 18 January 2023)
+-   📺 Watched episode 3 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (23:27 18 January 2023)
 -   📺 Completed [Orange](https://anilist.co/anime/21647) (23:00 18 January 2023)
 -   📺 Watched episode 16 of [The Eminence in Shadow](https://anilist.co/anime/130298) (20:21 18 January 2023)
 -   📺 Watched episode 1 - 8 of [Orange](https://anilist.co/anime/21647) (15:25 18 January 2023)
--   📺 Completed [Koikimo](https://anilist.co/anime/114840) (03:15 18 January 2023)
--   📺 Completed [Bottom-Tier Character Tomozaki OVA](https://anilist.co/anime/127363) (22:04 17 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
