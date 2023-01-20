@@ -22,9 +22,3 @@
 -   📺 Watched episode 3 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (21:18 19 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
-
-<details>
-<summary>:bar_chart: Recent Anilist Activity</summary>
-<!-- anilist_activity ends -->
-
-</details>
