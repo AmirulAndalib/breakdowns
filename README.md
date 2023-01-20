@@ -15,11 +15,11 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Mikakunin de Shinkoukei: Kamo Nikutte Midori-ppoi Aji ga suru no ne.](https://anilist.co/anime/20687) (11:26 19 January 2023)
--   📺 Completed [Engaged to the Unidentified: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.](https://anilist.co/anime/20633) (11:26 19 January 2023)
--   📺 Completed [Engaged to the Unidentified](https://anilist.co/anime/20483) (11:25 19 January 2023)
--   📺 Watched episode 1 of [Engaged to the Unidentified](https://anilist.co/anime/20483) (02:59 19 January 2023)
--   📺 Completed [Ao-chan Can't Study!](https://anilist.co/anime/105989) (02:40 19 January 2023)
+-   📺 Watched episode 2 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (21:01 20 January 2023)
+-   📺 Watched episode 3 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (06:17 20 January 2023)
+-   📺 Completed [Parallel World Pharmacy](https://anilist.co/anime/136707) (04:28 20 January 2023)
+-   📺 Watched episode 1 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (23:52 19 January 2023)
+-   📺 Watched episode 3 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (21:18 19 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 
