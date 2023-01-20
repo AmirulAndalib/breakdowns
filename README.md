@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (22:38 20 January 2023)
+-   📺 Watched episode 3 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (22:38 20 January 2023)
+-   📺 Watched episode 3 of [Farming Life in Another World](https://anilist.co/anime/146850) (22:38 20 January 2023)
 -   📺 Watched episode 2 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (21:01 20 January 2023)
 -   📺 Watched episode 3 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (06:17 20 January 2023)
--   📺 Completed [Parallel World Pharmacy](https://anilist.co/anime/136707) (04:28 20 January 2023)
--   📺 Watched episode 1 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (23:52 19 January 2023)
--   📺 Watched episode 3 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (21:18 19 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
