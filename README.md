@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Ajisai no Chiru Koro ni](https://anilist.co/anime/125067) (12:02 21 January 2023)
+-   📺 Completed [Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji.](https://anilist.co/anime/99894) (12:02 21 January 2023)
+-   📺 Completed [Isekai Meikyuu de Harem wo OVA](https://anilist.co/anime/151632) (11:08 21 January 2023)
+-   📺 Plans to watch [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501) (11:08 21 January 2023)
 -   📺 Completed [Kimi ga Suki.: THE ANIMATION](https://anilist.co/anime/125516) (05:18 21 January 2023)
--   📺 Watched episode 1 of [Taboo Tattoo](https://anilist.co/anime/21031) (02:11 21 January 2023)
--   📺 Watched episode 8 of [The Day I Became a God](https://anilist.co/anime/118419) (01:02 21 January 2023)
--   📺 Watched episode 10 of [The Pet Girl of Sakurasou](https://anilist.co/anime/13759) (01:00 21 January 2023)
--   📺 Watched episode 3 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (22:38 20 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
