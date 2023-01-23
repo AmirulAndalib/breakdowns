@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920) (07:41 23 January 2023)
 -   📺 Completed [Saekano: How to Raise a Boring Girlfriend](https://anilist.co/anime/20657) (05:00 23 January 2023)
 -   📺 Completed [Saekano: How to Raise a Boring Girlfriend ♭](https://anilist.co/anime/21180) (05:00 23 January 2023)
 -   📺 Plans to watch [Tantei wa mou, Shindeiru. Season 2](https://anilist.co/anime/152677) (04:59 23 January 2023)
 -   📺 Watched episode 1 of [The Dungeon of Black Company](https://anilist.co/anime/120608) (04:16 23 January 2023)
--   📺 Watched episode 3 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (22:10 22 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
