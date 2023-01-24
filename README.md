@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? III: Is It Wrong to Try to Find a Hot Spring in Orario? -Bath God Forever-](https://anilist.co/anime/127368) (13:41 24 January 2023)
+-   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? III](https://anilist.co/anime/112124) (13:40 24 January 2023)
 -   📺 Watched episode 1 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? III](https://anilist.co/anime/112124) (06:42 24 January 2023)
 -   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion](https://anilist.co/anime/101166) (04:05 24 January 2023)
 -   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Is It Wrong to Go Searching for Herbs on a Deserted Island?](https://anilist.co/anime/112125) (03:16 24 January 2023)
--   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? II](https://anilist.co/anime/101167) (03:15 24 January 2023)
--   📺 Watched episode 3 of [Ayakashi Triangle](https://anilist.co/anime/142849) (22:22 23 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
