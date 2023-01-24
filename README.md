@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion](https://anilist.co/anime/101166) (04:05 24 January 2023)
 -   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Is It Wrong to Go Searching for Herbs on a Deserted Island?](https://anilist.co/anime/112125) (03:16 24 January 2023)
 -   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? II](https://anilist.co/anime/101167) (03:15 24 January 2023)
 -   📺 Watched episode 3 of [Ayakashi Triangle](https://anilist.co/anime/142849) (22:22 23 January 2023)
 -   📺 Watched episode 3 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (22:07 23 January 2023)
--   📺 Watched episode 1 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? II](https://anilist.co/anime/101167) (13:56 23 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
