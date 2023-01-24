@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (14:30 24 January 2023)
+-   📺 Watched episode 1 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV](https://anilist.co/anime/129196) (14:27 24 January 2023)
 -   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? III: Is It Wrong to Try to Find a Hot Spring in Orario? -Bath God Forever-](https://anilist.co/anime/127368) (13:41 24 January 2023)
 -   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? III](https://anilist.co/anime/112124) (13:40 24 January 2023)
 -   📺 Watched episode 1 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? III](https://anilist.co/anime/112124) (06:42 24 January 2023)
--   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion](https://anilist.co/anime/101166) (04:05 24 January 2023)
--   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Is It Wrong to Go Searching for Herbs on a Deserted Island?](https://anilist.co/anime/112125) (03:16 24 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
