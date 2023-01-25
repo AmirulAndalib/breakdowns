@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Re:ZERO -Starting Life in Another World-](https://anilist.co/anime/21355) (10:33 25 January 2023)
--   📺 Completed [Hyoudou Ibuki: Kanpeki Ibuki Kaichou ga Kousoku Do M!? na Wake](https://anilist.co/anime/21667) (09:32 25 January 2023)
--   📺 Watched episode 6 of [The Dawn of the Witch](https://anilist.co/anime/133175) (07:25 25 January 2023)
--   📺 Watched episode 3 - 4 of [We Never Learn: BOKUBEN](https://anilist.co/anime/103900) (07:23 25 January 2023)
--   📺 Watched episode 3 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (03:54 25 January 2023)
+-   📺 Completed [High School DxD BorN: Yomigaeranai Fushichou](https://anilist.co/anime/21573) (11:22 25 January 2023)
+-   📺 Completed [High School DxD BorN: Maximum Titillation OVA](https://anilist.co/anime/21279) (11:22 25 January 2023)
+-   📺 Completed [High School DxD BorN](https://anilist.co/anime/20745) (11:21 25 January 2023)
+-   📺 Completed [High School DxD: Fantasy Jiggles Unleashed](https://anilist.co/anime/13357) (11:21 25 January 2023)
+-   📺 Completed [High School DxD New](https://anilist.co/anime/15451) (11:21 25 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
