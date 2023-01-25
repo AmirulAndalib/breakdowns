@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Uncle from Another World](https://anilist.co/anime/135806) (22:05 25 January 2023)
+-   📺 Watched episode 1 - 4 of [Re:ZERO -Starting Life in Another World-](https://anilist.co/anime/21355) (22:03 25 January 2023)
 -   📺 Watched episode 17 of [The Eminence in Shadow](https://anilist.co/anime/130298) (20:23 25 January 2023)
 -   📺 Completed [Himitsu no Kichi](https://anilist.co/anime/140320) (14:22 25 January 2023)
 -   📺 Completed [Watashi wa, Kairaku Izonshou](https://anilist.co/anime/21580) (14:11 25 January 2023)
--   📺 Watched episode 4 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (13:31 25 January 2023)
--   📺 Completed [Ero Mame](https://anilist.co/anime/21159) (13:03 25 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
