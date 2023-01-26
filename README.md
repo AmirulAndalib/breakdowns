@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [In/Spectre](https://anilist.co/anime/107201) (04:59 26 January 2023)
+-   📺 Watched episode 2 - 5 of [Uncle from Another World](https://anilist.co/anime/135806) (04:27 26 January 2023)
 -   📺 Plans to watch [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391) (01:30 26 January 2023)
 -   📺 Plans to watch [Kanojo mo Kanojo 2nd Season](https://anilist.co/anime/154692) (01:28 26 January 2023)
 -   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (01:27 26 January 2023)
--   📺 Watched episode 4 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (00:17 26 January 2023)
--   📺 Watched episode 2 - 4 of [Uncle from Another World](https://anilist.co/anime/135806) (23:27 25 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
