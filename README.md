@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Spy Classroom](https://anilist.co/anime/146323) (22:55 26 January 2023)
+-   📺 Watched episode 4 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (22:55 26 January 2023)
+-   📺 Watched episode 4 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (22:38 26 January 2023)
 -   📺 Watched episode 4 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (21:22 26 January 2023)
 -   📺 Completed [XL Joushi.](https://anilist.co/anime/111001) (14:54 26 January 2023)
--   📺 Completed [Baku Ane 2: Otouto Ippai Shibocchau zo! THE ANIMATION](https://anilist.co/anime/99964) (13:14 26 January 2023)
--   📺 Watched episode 2 - 12 of [Uncle from Another World](https://anilist.co/anime/135806) (12:30 26 January 2023)
--   📺 Watched episode 1 of [In/Spectre](https://anilist.co/anime/107201) (04:59 26 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
