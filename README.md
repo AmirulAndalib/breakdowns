@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Kanojo mo Kanojo 2nd Season](https://anilist.co/anime/154692) (01:28 26 January 2023)
+-   📺 Completed [The Quintessential Quintuplets Movie](https://anilist.co/anime/131520) (01:27 26 January 2023)
+-   📺 Watched episode 4 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (00:17 26 January 2023)
 -   📺 Watched episode 2 - 4 of [Uncle from Another World](https://anilist.co/anime/135806) (23:27 25 January 2023)
 -   📺 Watched episode 1 - 4 of [Re:ZERO -Starting Life in Another World-](https://anilist.co/anime/21355) (22:03 25 January 2023)
--   📺 Watched episode 17 of [The Eminence in Shadow](https://anilist.co/anime/130298) (20:23 25 January 2023)
--   📺 Completed [Himitsu no Kichi](https://anilist.co/anime/140320) (14:22 25 January 2023)
--   📺 Completed [Watashi wa, Kairaku Izonshou](https://anilist.co/anime/21580) (14:11 25 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
