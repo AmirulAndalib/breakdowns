@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (13:02 27 January 2023)
 -   📺 Completed [My Teen Romantic Comedy SNAFU TOO! OVA](https://anilist.co/anime/21769) (11:00 27 January 2023)
 -   📺 Completed [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (10:59 27 January 2023)
 -   📺 Completed [Saekano the Movie: Finale](https://anilist.co/anime/100675) (09:54 27 January 2023)
 -   📺 Completed [In/Spectre](https://anilist.co/anime/107201) (09:02 27 January 2023)
--   📺 Watched episode 2 - 8 of [In/Spectre](https://anilist.co/anime/107201) (07:24 27 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
