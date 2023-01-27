@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Tsuredure Children](https://anilist.co/anime/98291) (01:28 27 January 2023)
+-   📺 Plans to watch [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season](https://anilist.co/anime/156131) (01:25 27 January 2023)
+-   📺 Watched episode 1 of [BLUELOCK](https://anilist.co/anime/137822) (00:59 27 January 2023)
 -   📺 Watched episode 4 of [Spy Classroom](https://anilist.co/anime/146323) (22:55 26 January 2023)
 -   📺 Watched episode 4 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (22:55 26 January 2023)
--   📺 Watched episode 4 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (22:38 26 January 2023)
--   📺 Watched episode 4 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (21:22 26 January 2023)
--   📺 Completed [XL Joushi.](https://anilist.co/anime/111001) (14:54 26 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
