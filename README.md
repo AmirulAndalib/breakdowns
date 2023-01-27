@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Farming Life in Another World](https://anilist.co/anime/146850) (22:38 27 January 2023)
 -   📺 Watched episode 3 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (21:40 27 January 2023)
 -   📺 Watched episode 4 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (13:02 27 January 2023)
 -   📺 Completed [My Teen Romantic Comedy SNAFU TOO! OVA](https://anilist.co/anime/21769) (11:00 27 January 2023)
 -   📺 Completed [My Teen Romantic Comedy SNAFU Climax!](https://anilist.co/anime/108489) (10:59 27 January 2023)
--   📺 Completed [Saekano the Movie: Finale](https://anilist.co/anime/100675) (09:54 27 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
