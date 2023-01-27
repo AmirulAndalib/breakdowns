@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 8 of [In/Spectre](https://anilist.co/anime/107201) (07:24 27 January 2023)
 -   📺 Completed [Yarimoku Beach ni Shuugakuryokou de!! THE ANIMATION](https://anilist.co/anime/98433) (03:39 27 January 2023)
 -   📺 Completed [Eroge! H mo Game mo Kaihatsu Zanmai](https://anilist.co/anime/10779) (03:12 27 January 2023)
 -   📺 Completed [Kami-machi Sana-chan The Animation](https://anilist.co/anime/105970) (03:12 27 January 2023)
--   📺 Watched episode 2 - 4 of [In/Spectre](https://anilist.co/anime/107201) (02:10 27 January 2023)
 -   📺 Completed [Tsuredure Children](https://anilist.co/anime/98291) (01:28 27 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
