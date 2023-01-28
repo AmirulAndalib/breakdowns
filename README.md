@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (20:49 28 January 2023)
 -   📺 Watched episode 16 of [Welcome to Demon School! Iruma-kun Season 3](https://anilist.co/anime/139092) (12:24 28 January 2023)
 -   📺 Completed [Real Erogame Situation! The Animation](https://anilist.co/anime/100485) (08:55 28 January 2023)
 -   📺 Watched episode 1 - 4 of [Buddy Daddies](https://anilist.co/anime/155907) (04:34 28 January 2023)
 -   📺 Watched episode 4 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (02:25 28 January 2023)
--   📺 Watched episode 4 of [Farming Life in Another World](https://anilist.co/anime/146850) (22:38 27 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
