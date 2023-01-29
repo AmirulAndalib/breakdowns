@@ -14,11 +14,4 @@
 
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
-
--   📺 Completed [Honoo no Haramase Oppai ★ Ero Appli Gakuen THE ANIMATION](https://anilist.co/anime/98766) (14:27 29 January 2023)
--   📺 Watched episode 4 of [By the Grace of the Gods 2](https://anilist.co/anime/135102) (13:26 29 January 2023)
--   📺 Completed [Super Cub](https://anilist.co/anime/113418) (12:51 29 January 2023)
--   📺 Plans to watch [Liar Liar](https://anilist.co/anime/131863) (09:48 29 January 2023)
--   📺 Plans to watch [Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.](https://anilist.co/anime/154459) (09:47 29 January 2023)
-
 <!-- ANILIST_ACTIVITY:end -->
