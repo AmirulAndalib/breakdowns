@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (00:45 29 January 2023)
+-   📺 Watched episode 4 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (00:13 29 January 2023)
 -   📺 Watched episode 5 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (23:24 28 January 2023)
 -   📺 Watched episode 4 of [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (21:14 28 January 2023)
 -   📺 Watched episode 4 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (20:49 28 January 2023)
--   📺 Watched episode 16 of [Welcome to Demon School! Iruma-kun Season 3](https://anilist.co/anime/139092) (12:24 28 January 2023)
--   📺 Completed [Real Erogame Situation! The Animation](https://anilist.co/anime/100485) (08:55 28 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
