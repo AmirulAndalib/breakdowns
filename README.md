@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Super Cub](https://anilist.co/anime/113418) (12:51 29 January 2023)
 -   📺 Plans to watch [Liar Liar](https://anilist.co/anime/131863) (09:48 29 January 2023)
 -   📺 Plans to watch [Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.](https://anilist.co/anime/154459) (09:47 29 January 2023)
 -   📺 Completed [Harem Time THE ANIMATION](https://anilist.co/anime/14991) (03:28 29 January 2023)
 -   📺 Completed [Menkui!](https://anilist.co/anime/10419) (02:51 29 January 2023)
--   📺 Watched episode 4 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (00:45 29 January 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
