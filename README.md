@@ -15,10 +15,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (20:41 04 February 2023)
 -   📺 Watched episode 17 of [Welcome to Demon School! Iruma-kun Season 3](https://anilist.co/anime/139092) (12:24 04 February 2023)
 -   📺 Watched episode 1 of [Engage Kiss](https://anilist.co/anime/146625) (01:11 04 February 2023)
 -   📺 Watched episode 5 of [Buddy Daddies](https://anilist.co/anime/155907) (00:09 04 February 2023)
 -   📺 Watched episode 5 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (23:41 03 February 2023)
--   📺 Watched episode 5 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (23:18 03 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
