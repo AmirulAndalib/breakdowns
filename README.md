@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Myriad Colors Phantom World: The Polka Dot Miracle](https://anilist.co/anime/21777) (11:42 05 February 2023)
+-   📖 Dropped [Musaigen no Phantom World](https://anilist.co/manga/86401) (11:42 05 February 2023)
+-   📖 Completed [Musaigen no Phantom World](https://anilist.co/manga/86401) (11:41 05 February 2023)
+-   📺 Completed [Myriad Colors Phantom World](https://anilist.co/anime/21306) (11:40 05 February 2023)
 -   📺 Watched episode 2 of [Myriad Colors Phantom World](https://anilist.co/anime/21306) (08:22 05 February 2023)
--   📺 Completed [The Testament of Sister New Devil DEPARTURES](https://anilist.co/anime/100451) (07:13 05 February 2023)
--   📺 Completed [Engage Kiss](https://anilist.co/anime/146625) (06:42 05 February 2023)
--   📺 Completed [Dokyuu Hentai HxEros OVA](https://anilist.co/anime/123769) (03:56 05 February 2023)
--   📺 Watched episode 6 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (23:57 04 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
