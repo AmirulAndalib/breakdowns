@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Love of Kill](https://anilist.co/anime/127050) (13:43 05 February 2023)
 -   📺 Completed [The Testament of Sister New Devil BURST: Tojo Basara’s Perfectly Peaceful Daily Life](https://anilist.co/anime/21489) (12:54 05 February 2023)
 -   📺 Completed [Myriad Colors Phantom World: The Polka Dot Miracle](https://anilist.co/anime/21777) (11:42 05 February 2023)
 -   📖 Dropped [Musaigen no Phantom World](https://anilist.co/manga/86401) (11:42 05 February 2023)
 -   📖 Completed [Musaigen no Phantom World](https://anilist.co/manga/86401) (11:41 05 February 2023)
--   📺 Completed [Myriad Colors Phantom World](https://anilist.co/anime/21306) (11:40 05 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
