@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Love of Kill](https://anilist.co/anime/127050) (07:16 06 February 2023)
 -   📺 Watched episode 5 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (20:41 05 February 2023)
 -   📺 Watched episode 5 of [By the Grace of the Gods 2](https://anilist.co/anime/135102) (14:11 05 February 2023)
 -   📺 Watched episode 1 of [Love of Kill](https://anilist.co/anime/127050) (13:43 05 February 2023)
 -   📺 Completed [The Testament of Sister New Devil BURST: Tojo Basara’s Perfectly Peaceful Daily Life](https://anilist.co/anime/21489) (12:54 05 February 2023)
--   📺 Completed [Myriad Colors Phantom World: The Polka Dot Miracle](https://anilist.co/anime/21777) (11:42 05 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
