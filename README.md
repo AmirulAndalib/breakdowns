@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [This Art Club Has a Problem!](https://anilist.co/anime/21457) (10:22 06 February 2023)
+-   📺 Plans to watch [Inu ni Nattara Suki na Hito ni Hirowareta. OVA](https://anilist.co/anime/159807) (14:43 06 February 2023)
+-   📺 Plans to watch [A Galaxy Next Door](https://anilist.co/anime/148098) (14:43 06 February 2023)
+-   📺 Watched episode 2 - 9 of [This Art Club Has a Problem!](https://anilist.co/anime/21457) (14:41 06 February 2023)
 -   📺 Completed [Love of Kill](https://anilist.co/anime/127050) (07:16 06 February 2023)
 -   📺 Watched episode 5 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (20:41 05 February 2023)
--   📺 Watched episode 5 of [By the Grace of the Gods 2](https://anilist.co/anime/135102) (14:11 05 February 2023)
--   📺 Watched episode 1 of [Love of Kill](https://anilist.co/anime/127050) (13:43 05 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
