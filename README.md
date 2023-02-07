@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Campfire Cooking in Another World with my Absurd Skill](https://anilist.co/anime/156067) (22:56 07 February 2023)
 -   📺 Watched episode 2 of [Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout](https://anilist.co/anime/134252) (13:05 07 February 2023)
 -   📺 Completed [Kono Oto Tomare!: Sounds of Life Season 2](https://anilist.co/anime/108891) (12:25 07 February 2023)
 -   📺 Watched episode 4 of [Kono Oto Tomare!: Sounds of Life Season 2](https://anilist.co/anime/108891) (07:20 07 February 2023)
 -   📺 Completed [Kono Oto Tomare!: Sounds of Life](https://anilist.co/anime/103302) (04:55 07 February 2023)
--   📺 Watched episode 1 of [Kono Oto Tomare!: Sounds of Life](https://anilist.co/anime/103302) (23:38 06 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
