@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Overlord: Sei Oukoku-hen](https://anilist.co/anime/133845) (10:44 09 February 2023)
 -   📺 Watched episode 4 of [Princess Connect! Re:Dive Season 2](https://anilist.co/anime/122808) (08:22 09 February 2023)
 -   📺 Dropped [The Day I Became a God](https://anilist.co/anime/118419) (08:07 09 February 2023)
 -   📺 Dropped [The Dawn of the Witch](https://anilist.co/anime/133175) (08:07 09 February 2023)
 -   📺 Dropped [The Dungeon of Black Company](https://anilist.co/anime/120608) (08:07 09 February 2023)
--   📺 Dropped [Plastic Memories](https://anilist.co/anime/20872) (08:06 09 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
