@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (22:40 08 February 2023)
--   📺 Watched episode 6 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (21:21 08 February 2023)
--   📺 Watched episode 19 of [The Eminence in Shadow](https://anilist.co/anime/130298) (20:15 08 February 2023)
--   📺 Watched episode 1 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (14:32 08 February 2023)
--   📺 Plans to watch [The Reason Why Raeliana Ended Up At the Duke’s Mansion](https://anilist.co/anime/151847) (13:14 08 February 2023)
+-   📺 Watched episode 4 of [Princess Connect! Re:Dive Season 2](https://anilist.co/anime/122808) (08:22 09 February 2023)
+-   📺 Dropped [The Day I Became a God](https://anilist.co/anime/118419) (08:07 09 February 2023)
+-   📺 Dropped [The Dawn of the Witch](https://anilist.co/anime/133175) (08:07 09 February 2023)
+-   📺 Dropped [The Dungeon of Black Company](https://anilist.co/anime/120608) (08:07 09 February 2023)
+-   📺 Dropped [Plastic Memories](https://anilist.co/anime/20872) (08:06 09 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
