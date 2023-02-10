@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 10 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (04:49 10 February 2023)
+-   📺 Watched episode 2 - 20 of [The Irregular at Magic High School](https://anilist.co/anime/20458) (10:10 10 February 2023)
+-   📺 Dropped [BLUELOCK](https://anilist.co/anime/137822) (10:10 10 February 2023)
 -   📺 Plans to watch [Isekai Shoukan wa Nidome desu ](https://anilist.co/anime/140754) (02:47 10 February 2023)
 -   📺 Watched episode 6 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (23:38 09 February 2023)
 -   📺 Plans to watch [Mahouka Koukou no Rettousei 3](https://anilist.co/anime/143271) (23:21 09 February 2023)
--   📺 Watched episode 6 of [Spy Classroom](https://anilist.co/anime/146323) (22:39 09 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
