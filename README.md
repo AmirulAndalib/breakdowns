@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 18 of [Welcome to Demon School! Iruma-kun Season 3](https://anilist.co/anime/139092) (12:22 11 February 2023)
 -   📺 Completed [The Irregular at Magic High School: Visitor Arc](https://anilist.co/anime/112300) (10:19 11 February 2023)
 -   📺 Watched episode 2 - 5 of [The Irregular at Magic High School: Visitor Arc](https://anilist.co/anime/112300) (04:15 11 February 2023)
 -   📺 Watched episode 6 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (03:36 11 February 2023)
 -   📺 Dropped [Dagashi Kashi 2](https://anilist.co/anime/99734) (00:35 11 February 2023)
--   📺 Watched episode 6 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (22:18 10 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
