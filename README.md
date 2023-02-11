@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (03:36 11 February 2023)
 -   📺 Dropped [Dagashi Kashi 2](https://anilist.co/anime/99734) (00:35 11 February 2023)
 -   📺 Watched episode 2 of [The Irregular at Magic High School: Visitor Arc](https://anilist.co/anime/112300) (23:35 10 February 2023)
 -   📺 Watched episode 6 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (22:18 10 February 2023)
 -   📺 Watched episode 6 of [Farming Life in Another World](https://anilist.co/anime/146850) (22:18 10 February 2023)
--   📺 Watched episode 5 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (21:14 10 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
