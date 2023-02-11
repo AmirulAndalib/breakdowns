@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/130588) (21:07 11 February 2023)
 -   📺 Watched episode 2 of [The Master of Ragnarök & Blesser of Einherjar](https://anilist.co/anime/101289) (13:15 11 February 2023)
 -   📺 Watched episode 18 of [Welcome to Demon School! Iruma-kun Season 3](https://anilist.co/anime/139092) (12:22 11 February 2023)
 -   📺 Completed [The Irregular at Magic High School: Visitor Arc](https://anilist.co/anime/112300) (10:19 11 February 2023)
 -   📺 Watched episode 2 - 5 of [The Irregular at Magic High School: Visitor Arc](https://anilist.co/anime/112300) (04:15 11 February 2023)
--   📺 Watched episode 6 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (03:36 11 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
