@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Recovery of an MMO Junkie](https://anilist.co/anime/99726) (14:24 12 February 2023)
 -   📺 Watched episode 6 of [By the Grace of the Gods 2](https://anilist.co/anime/135102) (13:28 12 February 2023)
 -   📺 Completed [Sky Wizards Academy OVA](https://anilist.co/anime/21493) (13:26 12 February 2023)
 -   📺 Completed [Sky Wizards Academy](https://anilist.co/anime/20774) (13:21 12 February 2023)
 -   📺 Dropped 4 of [Sky Wizards Academy](https://anilist.co/anime/20774) (09:48 12 February 2023)
--   📺 Watched episode 2 of [Sky Wizards Academy](https://anilist.co/anime/20774) (08:21 12 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
