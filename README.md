@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (22:32 13 February 2023)
 -   📺 Plans to watch [Kami wa Game ni Ueteiru.](https://anilist.co/anime/144176) (21:28 13 February 2023)
 -   📺 Watched episode 2 of [Noragami](https://anilist.co/anime/20447) (07:27 13 February 2023)
 -   📺 Completed [Recovery of an MMO Junkie OVA](https://anilist.co/anime/100684) (04:52 13 February 2023)
 -   📺 Completed [Recovery of an MMO Junkie](https://anilist.co/anime/99726) (04:52 13 February 2023)
--   📺 Watched episode 6 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (20:41 12 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
