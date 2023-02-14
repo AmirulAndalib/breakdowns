@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Charlotte](https://anilist.co/anime/20997) (14:37 14 February 2023)
 -   📺 Completed [Noragami Aragoto OVA](https://anilist.co/anime/119941) (11:28 14 February 2023)
 -   📺 Completed [Noragami OVA](https://anilist.co/anime/20494) (11:28 14 February 2023)
 -   📺 Completed [Noragami Aragoto](https://anilist.co/anime/21128) (11:28 14 February 2023)
 -   📺 Watched episode 2 - 4 of [Nisekoi](https://anilist.co/anime/18897) (02:48 14 February 2023)
--   📺 Watched episode 2 of [Noragami Aragoto](https://anilist.co/anime/21128) (00:39 14 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
