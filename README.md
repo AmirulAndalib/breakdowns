@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (22:42 15 February 2023)
 -   📺 Completed [The Eminence in Shadow](https://anilist.co/anime/130298) (15:21 15 February 2023)
 -   📺 Watched episode 5 - 10 of [Nisekoi](https://anilist.co/anime/18897) (13:14 15 February 2023)
 -   📺 Completed [Charlotte: Strong People](https://anilist.co/anime/21339) (08:30 15 February 2023)
 -   📺 Completed [Charlotte](https://anilist.co/anime/20997) (08:30 15 February 2023)
--   📺 Watched episode 7 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (23:39 14 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
