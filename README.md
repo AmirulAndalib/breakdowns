@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (23:39 14 February 2023)
+-   📺 Watched episode 7 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (23:10 14 February 2023)
 -   📺 Watched episode 6 of [Campfire Cooking in Another World with my Absurd Skill](https://anilist.co/anime/156067) (22:28 14 February 2023)
 -   📺 Watched episode 2 of [Charlotte](https://anilist.co/anime/20997) (14:37 14 February 2023)
 -   📺 Completed [Noragami Aragoto OVA](https://anilist.co/anime/119941) (11:28 14 February 2023)
--   📺 Completed [Noragami OVA](https://anilist.co/anime/20494) (11:28 14 February 2023)
--   📺 Completed [Noragami Aragoto](https://anilist.co/anime/21128) (11:28 14 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
