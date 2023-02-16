@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 6 of [Nisekoi:](https://anilist.co/anime/20876) (11:29 16 February 2023)
+-   📺 Watched episode 2 - 8 of [Nisekoi:](https://anilist.co/anime/20876) (12:50 16 February 2023)
 -   📺 Watched episode 2 - 5 of [Nisekoi:](https://anilist.co/anime/20876) (10:08 16 February 2023)
 -   📺 Completed [Nisekoi](https://anilist.co/anime/18897) (07:24 16 February 2023)
 -   📺 Watched episode 5 - 18 of [Nisekoi](https://anilist.co/anime/18897) (03:54 16 February 2023)
