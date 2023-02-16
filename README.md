@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 - 14 of [Nisekoi](https://anilist.co/anime/18897) (01:08 16 February 2023)
+-   📺 Watched episode 5 - 16 of [Nisekoi](https://anilist.co/anime/18897) (02:35 16 February 2023)
 -   📺 Watched episode 7 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (23:05 15 February 2023)
 -   📺 Watched episode 7 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (22:42 15 February 2023)
 -   📺 Completed [The Eminence in Shadow](https://anilist.co/anime/130298) (15:21 15 February 2023)
