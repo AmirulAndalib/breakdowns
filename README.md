@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (21:09 16 February 2023)
 -   📺 Watched episode 7 of [Spy Classroom](https://anilist.co/anime/146323) (15:35 16 February 2023)
 -   📺 Completed [Nisekoi:](https://anilist.co/anime/20876) (14:39 16 February 2023)
 -   📺 Watched episode 2 - 8 of [Nisekoi:](https://anilist.co/anime/20876) (12:50 16 February 2023)
 -   📺 Watched episode 2 - 5 of [Nisekoi:](https://anilist.co/anime/20876) (10:08 16 February 2023)
--   📺 Completed [Nisekoi](https://anilist.co/anime/18897) (07:24 16 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
