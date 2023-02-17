@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Buddy Daddies](https://anilist.co/anime/155907) (23:09 16 February 2023)
 -   📺 Watched episode 7 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (22:35 16 February 2023)
 -   📺 Watched episode 7 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (21:09 16 February 2023)
 -   📺 Watched episode 7 of [Spy Classroom](https://anilist.co/anime/146323) (15:35 16 February 2023)
 -   📺 Completed [Nisekoi:](https://anilist.co/anime/20876) (14:39 16 February 2023)
--   📺 Watched episode 2 - 8 of [Nisekoi:](https://anilist.co/anime/20876) (12:50 16 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
