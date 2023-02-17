@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [The Saint's Magic Power is Omnipotent](https://anilist.co/anime/123802) (04:26 17 February 2023)
 -   📺 Plans to watch [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836) (03:42 17 February 2023)
 -   📺 Watched episode 7 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (01:29 17 February 2023)
 -   📺 Completed [Nisekoi: OVA](https://anilist.co/anime/119947) (00:57 17 February 2023)
 -   📺 Completed [Nisekoi OVA](https://anilist.co/anime/20728) (00:57 17 February 2023)
--   📺 Watched episode 6 of [Buddy Daddies](https://anilist.co/anime/155907) (23:09 16 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
