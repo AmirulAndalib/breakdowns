@@ -14,8 +14,8 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 10 of [Outbreak Company](https://anilist.co/anime/19369) (14:55 18 February 2023)
 -   📺 Watched episode 19 of [Welcome to Demon School! Iruma-kun Season 3](https://anilist.co/anime/139092) (12:11 18 February 2023)
--   📺 Watched episode 2 of [Outbreak Company](https://anilist.co/anime/19369) (05:47 18 February 2023)
 -   📺 Watched episode 7 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (00:00 18 February 2023)
 -   📺 Watched episode 7 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (23:29 17 February 2023)
 -   📺 Watched episode 7 of [Farming Life in Another World](https://anilist.co/anime/146850) (22:46 17 February 2023)
