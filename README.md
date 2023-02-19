@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (04:18 19 February 2023)
+-   📺 Watched episode 2 - 4 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (07:52 19 February 2023)
 -   📺 Watched episode 8 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (03:48 19 February 2023)
 -   📺 Completed [Outbreak Company](https://anilist.co/anime/19369) (00:46 19 February 2023)
 -   📺 Watched episode 7 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (23:16 18 February 2023)
