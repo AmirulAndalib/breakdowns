@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Outbreak Company](https://anilist.co/anime/19369) (00:46 19 February 2023)
 -   📺 Watched episode 7 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (23:16 18 February 2023)
 -   📺 Watched episode 7 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (22:34 18 February 2023)
 -   📺 Watched episode 7 of [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (21:24 18 February 2023)
 -   📺 Watched episode 2 - 10 of [Outbreak Company](https://anilist.co/anime/19369) (14:55 18 February 2023)
--   📺 Watched episode 19 of [Welcome to Demon School! Iruma-kun Season 3](https://anilist.co/anime/139092) (12:11 18 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
