@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (03:48 19 February 2023)
 -   📺 Completed [Outbreak Company](https://anilist.co/anime/19369) (00:46 19 February 2023)
 -   📺 Watched episode 7 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (23:16 18 February 2023)
 -   📺 Watched episode 7 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (22:34 18 February 2023)
 -   📺 Watched episode 7 of [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (21:24 18 February 2023)
--   📺 Watched episode 2 - 10 of [Outbreak Company](https://anilist.co/anime/19369) (14:55 18 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
