@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Haven't You Heard? I'm Sakamoto](https://anilist.co/anime/21595) (03:55 20 February 2023)
+-   📺 Watched episode 2 - 8 of [Haven't You Heard? I'm Sakamoto](https://anilist.co/anime/21595) (10:39 20 February 2023)
 -   📺 Completed [KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!](https://anilist.co/anime/21574) (02:44 20 February 2023)
 -   📺 Completed [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (02:43 20 February 2023)
 -   📺 Watched episode 7 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (21:30 19 February 2023)
