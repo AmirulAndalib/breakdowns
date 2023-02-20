@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!](https://anilist.co/anime/21574) (02:44 20 February 2023)
+-   📺 Completed [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (02:43 20 February 2023)
 -   📺 Watched episode 7 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (21:30 19 February 2023)
 -   📺 Plans to watch [Sono Bisque Doll wa Koi wo Suru (Zoku-hen)](https://anilist.co/anime/154768) (13:53 19 February 2023)
 -   📺 Watched episode 7 of [By the Grace of the Gods 2](https://anilist.co/anime/135102) (13:31 19 February 2023)
--   📺 Watched episode 2 - 6 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (12:54 19 February 2023)
--   📺 Watched episode 7 of [Buddy Daddies](https://anilist.co/anime/155907) (08:23 19 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
