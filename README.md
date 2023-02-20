@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [JUJUTSU KAISEN](https://anilist.co/anime/113415) (14:43 20 February 2023)
+-   📺 Plans to watch [Jujutsu Kaisen 2nd Season](https://anilist.co/anime/145064) (14:09 20 February 2023)
 -   📺 Completed [Haven't You Heard? I'm Sakamoto: Haven’t You Heard? I was Sakamoto](https://anilist.co/anime/21862) (13:33 20 February 2023)
 -   📺 Completed [Haven't You Heard? I'm Sakamoto](https://anilist.co/anime/21595) (13:32 20 February 2023)
 -   📺 Watched episode 2 - 8 of [Haven't You Heard? I'm Sakamoto](https://anilist.co/anime/21595) (10:39 20 February 2023)
--   📺 Completed [KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!](https://anilist.co/anime/21574) (02:44 20 February 2023)
--   📺 Completed [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (02:43 20 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
