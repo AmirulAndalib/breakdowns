@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Campfire Cooking in Another World with my Absurd Skill](https://anilist.co/anime/156067) (21:04 21 February 2023)
 -   📺 Completed [JUJUTSU KAISEN](https://anilist.co/anime/113415) (11:10 21 February 2023)
 -   📺 Watched episode 1 - 18 of [JUJUTSU KAISEN](https://anilist.co/anime/113415) (08:02 21 February 2023)
 -   📺 Watched episode 7 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (23:15 20 February 2023)
 -   📺 Plans to watch [Jujutsu Kaisen 2nd Season](https://anilist.co/anime/145064) (14:09 20 February 2023)
--   📺 Completed [Haven't You Heard? I'm Sakamoto: Haven’t You Heard? I was Sakamoto](https://anilist.co/anime/21862) (13:33 20 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
