@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (23:15 20 February 2023)
 -   📺 Watched episode 1 - 3 of [JUJUTSU KAISEN](https://anilist.co/anime/113415) (15:07 20 February 2023)
 -   📺 Plans to watch [Jujutsu Kaisen 2nd Season](https://anilist.co/anime/145064) (14:09 20 February 2023)
 -   📺 Completed [Haven't You Heard? I'm Sakamoto: Haven’t You Heard? I was Sakamoto](https://anilist.co/anime/21862) (13:33 20 February 2023)
 -   📺 Completed [Haven't You Heard? I'm Sakamoto](https://anilist.co/anime/21595) (13:32 20 February 2023)
--   📺 Watched episode 2 - 8 of [Haven't You Heard? I'm Sakamoto](https://anilist.co/anime/21595) (10:39 20 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
