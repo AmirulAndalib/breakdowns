@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Wolf Girl and Black Prince](https://anilist.co/anime/20701) (10:36 22 February 2023)
 -   📺 Completed [KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!](https://anilist.co/anime/97996) (08:57 22 February 2023)
 -   📺 Completed [KONOSUBA -God's blessing on this wonderful world! 2](https://anilist.co/anime/21699) (08:56 22 February 2023)
 -   📺 Watched episode 2 - 6 of [KONOSUBA -God's blessing on this wonderful world! 2](https://anilist.co/anime/21699) (03:47 22 February 2023)
 -   📺 Watched episode 8 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (23:11 21 February 2023)
--   📺 Watched episode 8 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (22:39 21 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
