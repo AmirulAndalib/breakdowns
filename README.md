@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (22:40 22 February 2023)
 -   📺 Watched episode 8 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (21:25 22 February 2023)
 -   📺 Completed [Ookami Shoujo to Kuro Ouji: Gishinanki – Happening kiss](https://anilist.co/anime/21007) (15:30 22 February 2023)
 -   📺 Completed [Wolf Girl and Black Prince](https://anilist.co/anime/20701) (15:30 22 February 2023)
 -   📺 Watched episode 2 - 10 of [Wolf Girl and Black Prince](https://anilist.co/anime/20701) (14:42 22 February 2023)
--   📺 Plans to watch [Kage no Jitsuryokusha ni Naritakute! 2nd Season](https://anilist.co/anime/161964) (12:06 22 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
