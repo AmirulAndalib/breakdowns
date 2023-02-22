@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [KONOSUBA -God's blessing on this wonderful world! 2](https://anilist.co/anime/21699) (23:45 21 February 2023)
+-   📺 Watched episode 2 - 4 of [KONOSUBA -God's blessing on this wonderful world! 2](https://anilist.co/anime/21699) (00:34 22 February 2023)
 -   📺 Watched episode 8 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (23:11 21 February 2023)
 -   📺 Watched episode 8 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (22:39 21 February 2023)
 -   📺 Plans to watch [Kono Subarashii Sekai ni Shukufuku wo! 3](https://anilist.co/anime/136804) (22:25 21 February 2023)
