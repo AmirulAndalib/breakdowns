@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) (15:19 23 February 2023)
 -   📺 Completed [One-Punch Man Season 2 OVA](https://anilist.co/anime/108945) (13:24 23 February 2023)
 -   📺 Completed [One-Punch Man Season 2](https://anilist.co/anime/97668) (13:24 23 February 2023)
 -   📺 Plans to watch [Mato Seihei no Slave](https://anilist.co/anime/141821) (11:08 23 February 2023)
 -   📺 Watched episode 2 of [One-Punch Man Season 2](https://anilist.co/anime/97668) (06:53 23 February 2023)
--   📺 Completed [One Punch Man: Road to Hero](https://anilist.co/anime/21386) (06:52 23 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
