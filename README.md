@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 6 of [One-Punch Man](https://anilist.co/anime/21087) (01:56 23 February 2023)
+-   📺 Watched episode 2 - 8 of [One-Punch Man](https://anilist.co/anime/21087) (02:48 23 February 2023)
 -   📺 Watched episode 8 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (22:40 22 February 2023)
 -   📺 Watched episode 8 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (21:25 22 February 2023)
 -   📺 Completed [Ookami Shoujo to Kuro Ouji: Gishinanki – Happening kiss](https://anilist.co/anime/21007) (15:30 22 February 2023)
