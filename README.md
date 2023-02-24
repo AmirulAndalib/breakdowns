@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 10 of [Black Clover](https://anilist.co/anime/97940) (12:59 24 February 2023)
+-   📺 Watched episode 2 - 14 of [Black Clover](https://anilist.co/anime/97940) (14:37 24 February 2023)
 -   📺 Watched episode 1 - 13 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) (07:10 24 February 2023)
 -   📺 Watched episode 8 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (02:58 24 February 2023)
 -   📺 Watched episode 8 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (22:31 23 February 2023)
