@@ -14,9 +14,9 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 42 of [Black Clover](https://anilist.co/anime/97940) (14:02 25 February 2023)
 -   📺 Watched episode 20 of [Welcome to Demon School! Iruma-kun Season 3](https://anilist.co/anime/139092) (12:27 25 February 2023)
 -   📺 Watched episode 8 of [Buddy Daddies](https://anilist.co/anime/155907) (12:27 25 February 2023)
--   📺 Watched episode 2 - 40 of [Black Clover](https://anilist.co/anime/97940) (11:26 25 February 2023)
 -   📺 Watched episode 8 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (23:05 24 February 2023)
 -   📺 Watched episode 8 of [Farming Life in Another World](https://anilist.co/anime/146850) (22:43 24 February 2023)
 
