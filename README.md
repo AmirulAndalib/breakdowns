@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 25 of [Black Clover](https://anilist.co/anime/97940) (03:20 25 February 2023)
+-   📺 Watched episode 2 - 28 of [Black Clover](https://anilist.co/anime/97940) (04:59 25 February 2023)
 -   📺 Watched episode 8 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (23:05 24 February 2023)
 -   📺 Watched episode 8 of [Farming Life in Another World](https://anilist.co/anime/146850) (22:43 24 February 2023)
 -   📺 Watched episode 8 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (22:13 24 February 2023)
