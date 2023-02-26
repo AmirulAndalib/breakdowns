@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 60 of [Black Clover](https://anilist.co/anime/97940) (09:03 26 February 2023)
+-   📺 Watched episode 2 - 75 of [Black Clover](https://anilist.co/anime/97940) (12:57 26 February 2023)
 -   📺 Plans to watch [Black Clover: Sword of the Wizard King](https://anilist.co/anime/131680) (02:01 26 February 2023)
 -   📺 Watched episode 9 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (22:47 25 February 2023)
 -   📺 Watched episode 8 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (21:12 25 February 2023)
