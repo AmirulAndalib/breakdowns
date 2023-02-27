@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 90 of [Black Clover](https://anilist.co/anime/97940) (00:50 27 February 2023)
+-   📺 Watched episode 2 - 100 of [Black Clover](https://anilist.co/anime/97940) (04:09 27 February 2023)
 -   📺 Watched episode 8 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (20:23 26 February 2023)
 -   📺 Plans to watch [Black Clover: Sword of the Wizard King](https://anilist.co/anime/131680) (02:01 26 February 2023)
 -   📺 Watched episode 9 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (22:47 25 February 2023)
