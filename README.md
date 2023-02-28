@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 140 of [Black Clover](https://anilist.co/anime/97940) (07:22 28 February 2023)
+-   📺 Watched episode 140 - 150 of [Black Clover](https://anilist.co/anime/97940) (14:36 28 February 2023)
 -   📺 Watched episode 8 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (02:50 28 February 2023)
 -   📺 Watched episode 2 - 125 of [Black Clover](https://anilist.co/anime/97940) (15:17 27 February 2023)
 -   📺 Watched episode 8 of [By the Grace of the Gods 2](https://anilist.co/anime/135102) (08:46 27 February 2023)
