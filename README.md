@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (02:50 28 February 2023)
 -   📺 Watched episode 2 - 125 of [Black Clover](https://anilist.co/anime/97940) (15:17 27 February 2023)
 -   📺 Watched episode 8 of [By the Grace of the Gods 2](https://anilist.co/anime/135102) (08:46 27 February 2023)
 -   📺 Watched episode 8 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (20:23 26 February 2023)
 -   📺 Plans to watch [Black Clover: Sword of the Wizard King](https://anilist.co/anime/131680) (02:01 26 February 2023)
--   📺 Watched episode 9 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (22:47 25 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
