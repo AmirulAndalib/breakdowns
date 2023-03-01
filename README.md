@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (00:11 01 March 2023)
+-   📺 Watched episode 9 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (23:29 28 February 2023)
+-   📺 Watched episode 8 of [Campfire Cooking in Another World with my Absurd Skill](https://anilist.co/anime/156067) (23:06 28 February 2023)
 -   📺 Watched episode 140 - 150 of [Black Clover](https://anilist.co/anime/97940) (14:36 28 February 2023)
 -   📺 Watched episode 8 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (02:50 28 February 2023)
--   📺 Watched episode 2 - 125 of [Black Clover](https://anilist.co/anime/97940) (15:17 27 February 2023)
--   📺 Watched episode 8 of [By the Grace of the Gods 2](https://anilist.co/anime/135102) (08:46 27 February 2023)
--   📺 Watched episode 8 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (20:23 26 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
