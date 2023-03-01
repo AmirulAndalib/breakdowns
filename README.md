@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Blood Blockade Battlefront](https://anilist.co/anime/20727) (13:38 01 March 2023)
+-   📺 Watched episode 14 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) (13:38 01 March 2023)
 -   📺 Watched episode 1 of [Blood Blockade Battlefront](https://anilist.co/anime/20727) (10:40 01 March 2023)
 -   📺 Completed [Black Clover](https://anilist.co/anime/97940) (10:02 01 March 2023)
 -   📺 Watched episode 160 of [Black Clover](https://anilist.co/anime/97940) (04:31 01 March 2023)
--   📺 Watched episode 9 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (00:11 01 March 2023)
--   📺 Watched episode 9 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (23:29 28 February 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
