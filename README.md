@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [ORESUKI: Are you the only one who loves me?: Our Playball / Our End Run / Our Game](https://anilist.co/anime/114195) (15:21 01 March 2023)
 -   📺 Watched episode 9 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (14:05 01 March 2023)
 -   📺 Dropped [Blood Blockade Battlefront](https://anilist.co/anime/20727) (13:38 01 March 2023)
 -   📺 Watched episode 14 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) (13:38 01 March 2023)
 -   📺 Watched episode 1 of [Blood Blockade Battlefront](https://anilist.co/anime/20727) (10:40 01 March 2023)
--   📺 Completed [Black Clover](https://anilist.co/anime/97940) (10:02 01 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
