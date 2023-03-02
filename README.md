@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Spy Classroom](https://anilist.co/anime/146323) (22:48 02 March 2023)
+-   📺 Watched episode 9 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (22:10 02 March 2023)
 -   📺 Watched episode 9 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (21:32 02 March 2023)
 -   📺 Watched episode 1 of [EDENS ZERO](https://anilist.co/anime/119683) (10:21 02 March 2023)
 -   📺 Completed [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) (09:31 02 March 2023)
--   📺 Watched episode 19 - 20 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) (04:26 02 March 2023)
--   📺 Completed [Masamune-kun's Revenge OAD](https://anilist.co/anime/101213) (01:58 02 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
