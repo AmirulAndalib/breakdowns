@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (04:11 03 March 2023)
 -   📺 Watched episode 2 - 3 of [EDENS ZERO](https://anilist.co/anime/119683) (23:29 02 March 2023)
 -   📺 Watched episode 8 of [Spy Classroom](https://anilist.co/anime/146323) (22:48 02 March 2023)
 -   📺 Watched episode 9 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (22:10 02 March 2023)
 -   📺 Watched episode 9 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (21:32 02 March 2023)
--   📺 Watched episode 1 of [EDENS ZERO](https://anilist.co/anime/119683) (10:21 02 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
