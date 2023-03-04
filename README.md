@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Welcome to Demon School! Iruma-kun Season 3](https://anilist.co/anime/139092) (12:19 04 March 2023)
 -   📺 Watched episode 14 of [EDENS ZERO](https://anilist.co/anime/119683) (10:49 04 March 2023)
 -   📺 Watched episode 9 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (23:19 03 March 2023)
 -   📺 Watched episode 8 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (21:11 03 March 2023)
 -   📺 Watched episode 9 of [Farming Life in Another World](https://anilist.co/anime/146850) (20:49 03 March 2023)
--   📺 Watched episode 4 - 5 of [EDENS ZERO](https://anilist.co/anime/119683) (13:15 03 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
