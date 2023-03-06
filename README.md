@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [EDENS ZERO](https://anilist.co/anime/119683) (04:11 06 March 2023)
+-   📺 Plans to watch [EDENS ZERO 2nd Season](https://anilist.co/anime/144932) (04:10 06 March 2023)
 -   📺 Watched episode 9 of [By the Grace of the Gods 2](https://anilist.co/anime/135102) (23:18 05 March 2023)
 -   📺 Watched episode 9 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (22:41 05 March 2023)
 -   📺 Watched episode 18 - 20 of [EDENS ZERO](https://anilist.co/anime/119683) (13:01 05 March 2023)
--   📺 Completed [Big Order OVA](https://anilist.co/anime/21075) (01:11 05 March 2023)
--   📺 Watched episode 10 of [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (23:46 04 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
