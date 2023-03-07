@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [My Hero Academia Season 2](https://anilist.co/anime/21856) (01:00 07 March 2023)
+-   📺 Watched episode 9 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (00:50 07 March 2023)
 -   📺 Completed [My Hero Academia](https://anilist.co/anime/21459) (00:10 07 March 2023)
 -   📺 Watched episode 5 of [Ayakashi Triangle](https://anilist.co/anime/142849) (22:29 06 March 2023)
 -   📺 Watched episode 2 - 10 of [My Hero Academia](https://anilist.co/anime/21459) (14:07 06 March 2023)
--   📺 Completed [EDENS ZERO](https://anilist.co/anime/119683) (04:11 06 March 2023)
--   📺 Plans to watch [EDENS ZERO 2nd Season](https://anilist.co/anime/144932) (04:10 06 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
