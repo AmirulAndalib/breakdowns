@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [My Hero Academia Season 3](https://anilist.co/anime/100166) (04:21 08 March 2023)
+-   📺 Watched episode 2 - 6 of [My Hero Academia Season 3](https://anilist.co/anime/100166) (10:15 08 March 2023)
 -   📺 Completed [My Hero Academia Season 2](https://anilist.co/anime/21856) (02:34 08 March 2023)
 -   📺 Watched episode 17 - 20 of [My Hero Academia Season 2](https://anilist.co/anime/21856) (23:27 07 March 2023)
 -   📺 Watched episode 10 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (22:24 07 March 2023)
