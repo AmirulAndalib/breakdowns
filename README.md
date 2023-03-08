@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [My Hero Academia Season 2](https://anilist.co/anime/21856) (02:34 08 March 2023)
 -   📺 Watched episode 17 - 20 of [My Hero Academia Season 2](https://anilist.co/anime/21856) (23:27 07 March 2023)
 -   📺 Watched episode 10 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (22:24 07 March 2023)
 -   📺 Watched episode 10 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (22:09 07 March 2023)
 -   📺 Watched episode 9 of [Campfire Cooking in Another World with my Absurd Skill](https://anilist.co/anime/156067) (21:05 07 March 2023)
--   📺 Plans to watch [Yamada-kun to Lv999 no Koi wo Suru](https://anilist.co/anime/154965) (12:17 07 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
