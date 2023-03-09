@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Spy Classroom](https://anilist.co/anime/146323) (22:48 09 March 2023)
+-   📺 Watched episode 10 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (22:13 09 March 2023)
 -   📺 Plans to watch [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598) (21:47 09 March 2023)
 -   📺 Watched episode 10 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (21:30 09 March 2023)
 -   📺 Watched episode 2 - 6 of [My Hero Academia Season 4](https://anilist.co/anime/104276) (13:25 09 March 2023)
--   📺 Completed [My Hero Academia: Make It! Do-or-Die Survival Training](https://anilist.co/anime/122349) (08:56 09 March 2023)
--   📺 Completed [My Hero Academia Season 3](https://anilist.co/anime/100166) (08:55 09 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
