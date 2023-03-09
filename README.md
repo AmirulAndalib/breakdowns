@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 14 of [My Hero Academia Season 3](https://anilist.co/anime/100166) (02:08 09 March 2023)
+-   📺 Watched episode 14 - 20 of [My Hero Academia Season 3](https://anilist.co/anime/100166) (06:27 09 March 2023)
 -   📺 Watched episode 10 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (01:05 09 March 2023)
 -   📺 Plans to watch [The Aristocrat’s Otherworldly Adventure: Servings Gods Who Go Too Far](https://anilist.co/anime/153332) (20:38 08 March 2023)
 -   📺 Watched episode 10 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (13:38 08 March 2023)
