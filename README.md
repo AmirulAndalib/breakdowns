@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [My Hero Academia Season 4](https://anilist.co/anime/104276) (11:46 10 March 2023)
 -   📺 Watched episode 13 - 14 of [My Hero Academia Season 4](https://anilist.co/anime/104276) (03:53 10 March 2023)
 -   📺 Watched episode 10 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (02:34 10 March 2023)
 -   📺 Completed [Uncle from Another World](https://anilist.co/anime/135806) (02:11 10 March 2023)
 -   📺 Watched episode 9 of [Spy Classroom](https://anilist.co/anime/146323) (22:48 09 March 2023)
--   📺 Watched episode 10 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (22:13 09 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
