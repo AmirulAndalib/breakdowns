@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (20:32 10 March 2023)
+-   📺 Watched episode 10 of [Farming Life in Another World](https://anilist.co/anime/146850) (20:09 10 March 2023)
 -   📺 Watched episode 10 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (14:14 10 March 2023)
 -   📺 Watched episode 2 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (13:18 10 March 2023)
 -   📺 Plans to watch [NARUTO (Shinsaku Anime)](https://anilist.co/anime/162561) (13:17 10 March 2023)
--   📺 Completed [I've Always Liked You](https://anilist.co/anime/21296) (12:17 10 March 2023)
--   📺 Completed [My Hero Academia Season 4](https://anilist.co/anime/104276) (11:46 10 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
