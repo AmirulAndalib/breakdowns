@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 10 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (01:15 11 March 2023)
+-   📺 Plans to watch [Futei with… The Animation: Hitozuma Nanpa NTR Onsen - Ryokousaki de Naka Yoku Tanetsuke Saremashita](https://anilist.co/anime/159097) (00:14 11 March 2023)
 -   📺 Plans to watch [Maid Kyouiku.: Botsuraku Kizoku Rurikawa Tsubaki - THE ANIMATION](https://anilist.co/anime/147622) (00:09 11 March 2023)
 -   📺 Completed [YU-NO: Mugen no Heiretsu Sekai](https://anilist.co/anime/112472) (00:09 11 March 2023)
--   📺 Watched episode 2 - 6 of [My Hero Academia Season 5](https://anilist.co/anime/117193) (23:13 10 March 2023)
 -   📺 Plans to watch [Kaminaki Sekai no Kamisama Katsudou](https://anilist.co/anime/148048) (22:20 10 March 2023)
--   📺 Watched episode 9 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (20:32 10 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
