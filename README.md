@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Monthly Girls' Nozaki-kun](https://anilist.co/anime/20668) (09:46 13 March 2023)
+-   📺 Watched episode 2 - 4 of [Monthly Girls' Nozaki-kun](https://anilist.co/anime/20668) (11:19 13 March 2023)
 -   📺 Watched episode 3 - 4 of [Science Fell in Love, So I Tried to Prove It](https://anilist.co/anime/107067) (08:54 13 March 2023)
 -   📺 Completed [Blood Lad: Wagahai wa Neko de wa Nai](https://anilist.co/anime/18441) (04:26 13 March 2023)
 -   📺 Completed [Blood Lad](https://anilist.co/anime/11633) (04:26 13 March 2023)
