@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [The Devil is a Part-Timer!](https://anilist.co/anime/15809) (04:30 14 March 2023)
 -   📺 Completed [Monthly Girls' Nozaki-kun Specials](https://anilist.co/anime/20869) (03:00 14 March 2023)
 -   📺 Completed [Monthly Girls' Nozaki-kun](https://anilist.co/anime/20668) (03:00 14 March 2023)
 -   📺 Watched episode 7 - 8 of [Monthly Girls' Nozaki-kun](https://anilist.co/anime/20668) (01:54 14 March 2023)
 -   📺 Watched episode 7 - 10 of [Monthly Girls' Nozaki-kun](https://anilist.co/anime/20668) (01:54 14 March 2023)
--   📺 Watched episode 7 - 9 of [Monthly Girls' Nozaki-kun](https://anilist.co/anime/20668) (01:54 14 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
