@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Ayakashi Triangle](https://anilist.co/anime/142849) (00:10 14 March 2023)
+-   📺 Watched episode 10 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (23:17 13 March 2023)
 -   📺 Plans to watch [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694) (21:31 13 March 2023)
 -   📺 Watched episode 2 - 6 of [Monthly Girls' Nozaki-kun](https://anilist.co/anime/20668) (13:06 13 March 2023)
 -   📺 Watched episode 3 - 4 of [Science Fell in Love, So I Tried to Prove It](https://anilist.co/anime/107067) (08:54 13 March 2023)
--   📺 Completed [Blood Lad: Wagahai wa Neko de wa Nai](https://anilist.co/anime/18441) (04:26 13 March 2023)
--   📺 Completed [Blood Lad](https://anilist.co/anime/11633) (04:26 13 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
