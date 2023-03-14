@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (21:24 14 March 2023)
+-   📺 Watched episode 11 of [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (21:04 14 March 2023)
 -   📺 Watched episode 10 of [Campfire Cooking in Another World with my Absurd Skill](https://anilist.co/anime/156067) (20:41 14 March 2023)
 -   📺 Watched episode 2 - 4 of [Sword Art Online](https://anilist.co/anime/11757) (13:22 14 March 2023)
 -   📺 Completed [The Devil is a Part-Timer!](https://anilist.co/anime/15809) (10:44 14 March 2023)
--   📺 Plans to watch [Gimai Seikatsu](https://anilist.co/anime/152681) (10:18 14 March 2023)
--   📺 Watched episode 3 of [The Devil is a Part-Timer!](https://anilist.co/anime/15809) (04:30 14 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
