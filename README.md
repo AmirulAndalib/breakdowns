@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Sword Art Online the Movie: Ordinal Scale](https://anilist.co/anime/21403) (11:45 16 March 2023)
 -   📺 Watched episode 2 of [Sword Art Online: Alicization](https://anilist.co/anime/100182) (10:35 16 March 2023)
 -   📺 Completed [Sword Art Online II](https://anilist.co/anime/20594) (09:57 16 March 2023)
 -   📺 Watched episode 2 - 20 of [Sword Art Online II](https://anilist.co/anime/20594) (07:52 16 March 2023)
 -   📺 Watched episode 11 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (21:18 15 March 2023)
--   📺 Watched episode 11 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (20:04 15 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
