@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 6 of [Sword Art Online: Alicization](https://anilist.co/anime/100182) (20:54 16 March 2023)
+-   📺 Watched episode 11 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (20:19 16 March 2023)
 -   📺 Completed [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (15:28 16 March 2023)
--   📺 Watched episode 2 - 4 of [Sword Art Online: Alicization](https://anilist.co/anime/100182) (15:03 16 March 2023)
 -   📺 Completed [Sword Art Online the Movie: Ordinal Scale](https://anilist.co/anime/21403) (11:45 16 March 2023)
 -   📺 Completed [Sword Art Online II](https://anilist.co/anime/20594) (09:57 16 March 2023)
--   📺 Watched episode 2 - 20 of [Sword Art Online II](https://anilist.co/anime/20594) (07:52 16 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
