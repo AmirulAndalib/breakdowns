@@ -14,8 +14,8 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 10 of [Sword Art Online II](https://anilist.co/anime/20594) (23:16 15 March 2023)
 -   📺 Watched episode 11 of [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (21:18 15 March 2023)
--   📺 Watched episode 2 - 8 of [Sword Art Online II](https://anilist.co/anime/20594) (20:56 15 March 2023)
 -   📺 Watched episode 11 of [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (20:04 15 March 2023)
 -   📺 Completed [Sword Art Online EXTRA EDITION](https://anilist.co/anime/20021) (10:31 15 March 2023)
 -   📺 Completed [Sword Art Online](https://anilist.co/anime/11757) (10:31 15 March 2023)
