@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 - 9 of [Sword Art Online: Alicization - War of Underworld](https://anilist.co/anime/108759) (20:55 17 March 2023)
+-   📺 Watched episode 4 - 10 of [Sword Art Online: Alicization - War of Underworld](https://anilist.co/anime/108759) (21:12 17 March 2023)
 -   📺 Watched episode 10 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (20:44 17 March 2023)
 -   📺 Watched episode 11 of [Farming Life in Another World](https://anilist.co/anime/146850) (20:22 17 March 2023)
 -   📺 Watched episode 11 of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (13:42 17 March 2023)
