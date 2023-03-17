@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Dosanko Gal wa Namaramenkoi](https://anilist.co/anime/155963) (09:16 17 March 2023)
+-   📺 Plans to watch [Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story](https://anilist.co/anime/154384) (09:16 17 March 2023)
+-   📺 Plans to watch [Temple](https://anilist.co/anime/160447) (09:15 17 March 2023)
+-   📺 Plans to watch [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730) (09:15 17 March 2023)
 -   📺 Plans to watch [My One-Hit Kill Sister](https://anilist.co/anime/146234) (07:49 17 March 2023)
--   📺 Watched episode 2 - 20 of [Sword Art Online: Alicization](https://anilist.co/anime/100182) (07:42 17 March 2023)
--   📺 Watched episode 11 of [The Iceblade Sorcerer Shall Rule the World](https://anilist.co/anime/148116) (01:41 17 March 2023)
--   📺 Watched episode 10 of [Spy Classroom](https://anilist.co/anime/146323) (21:28 16 March 2023)
--   📺 Watched episode 11 of [My Life as Inukai-san’s Dog](https://anilist.co/anime/146346) (20:19 16 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
