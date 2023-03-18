@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308) (23:51 17 March 2023)
+-   📺 Watched episode 2 - 4 of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308) (02:19 18 March 2023)
+-   📺 Watched episode 11 of [Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte](https://anilist.co/anime/143064) (01:46 18 March 2023)
 -   📺 Watched episode 10 of [Buddy Daddies](https://anilist.co/anime/155907) (23:30 17 March 2023)
 -   📺 Completed [Sword Art Online: Alicization - War of Underworld](https://anilist.co/anime/108759) (22:53 17 March 2023)
 -   📺 Watched episode 4 - 10 of [Sword Art Online: Alicization - War of Underworld](https://anilist.co/anime/108759) (21:12 17 March 2023)
--   📺 Watched episode 10 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (20:44 17 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
