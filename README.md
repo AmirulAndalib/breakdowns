@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (21:12 18 March 2023)
 -   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:44 18 March 2023)
 -   📺 Watched episode 2 - 6 of [Dusk Maiden of Amnesia](https://anilist.co/anime/12445) (13:22 18 March 2023)
 -   📺 Watched episode 24 of [My Hero Academia Season 6](https://anilist.co/anime/139630) (11:58 18 March 2023)
 -   📺 Completed [Sword Art Online the Movie -Progressive- Aria of a Starless Night](https://anilist.co/anime/124140) (07:48 18 March 2023)
--   📺 Completed [Showtime! 2: Uta no Onee-san datte Shitai](https://anilist.co/anime/142136) (07:19 18 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
