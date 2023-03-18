@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Dusk Maiden of Amnesia](https://anilist.co/anime/12445) (09:48 18 March 2023)
 -   📺 Completed [Sword Art Online the Movie -Progressive- Aria of a Starless Night](https://anilist.co/anime/124140) (07:48 18 March 2023)
 -   📺 Completed [Showtime! 2: Uta no Onee-san datte Shitai](https://anilist.co/anime/142136) (07:19 18 March 2023)
 -   📺 Completed [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308) (04:48 18 March 2023)
 -   📺 Watched episode 2 - 6 of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308) (04:05 18 March 2023)
--   📺 Watched episode 2 - 8 of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308) (04:05 18 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
