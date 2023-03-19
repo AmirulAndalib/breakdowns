@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 8 of [Dusk Maiden of Amnesia](https://anilist.co/anime/12445) (01:24 19 March 2023)
 -   📺 Watched episode 11 of [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (23:35 18 March 2023)
 -   📺 Watched episode 11 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (23:01 18 March 2023)
 -   📺 Watched episode 11 of [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (21:12 18 March 2023)
 -   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (19:44 18 March 2023)
--   📺 Watched episode 2 - 6 of [Dusk Maiden of Amnesia](https://anilist.co/anime/12445) (13:22 18 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
