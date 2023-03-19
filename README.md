@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [The Seven Deadly Sins](https://anilist.co/anime/20789) (04:20 19 March 2023)
+-   📺 Watched episode 2 - 6 of [The Seven Deadly Sins](https://anilist.co/anime/20789) (09:57 19 March 2023)
 -   📺 Completed [Dusk Maiden of Amnesia: "Ghost Girl"](https://anilist.co/anime/14189) (03:26 19 March 2023)
 -   📺 Completed [Dusk Maiden of Amnesia](https://anilist.co/anime/12445) (03:26 19 March 2023)
 -   📺 Watched episode 7 - 8 of [Dusk Maiden of Amnesia](https://anilist.co/anime/12445) (01:24 19 March 2023)
