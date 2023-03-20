@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Handyman Saitou in Another World](https://anilist.co/anime/144092) (23:22 19 March 2023)
+-   📺 Watched episode 11 of [By the Grace of the Gods 2](https://anilist.co/anime/135102) (23:22 19 March 2023)
 -   📺 Watched episode 2 - 10 of [The Seven Deadly Sins](https://anilist.co/anime/20789) (12:30 19 March 2023)
 -   📺 Completed [Dusk Maiden of Amnesia: "Ghost Girl"](https://anilist.co/anime/14189) (03:26 19 March 2023)
 -   📺 Completed [Dusk Maiden of Amnesia](https://anilist.co/anime/12445) (03:26 19 March 2023)
--   📺 Watched episode 7 - 8 of [Dusk Maiden of Amnesia](https://anilist.co/anime/12445) (01:24 19 March 2023)
--   📺 Watched episode 11 of [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (23:35 18 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
