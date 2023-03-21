@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (22:49 21 March 2023)
+-   📺 Completed [Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World](https://anilist.co/anime/137909) (22:41 21 March 2023)
+-   📺 Watched episode 11 of [Campfire Cooking in Another World with my Absurd Skill](https://anilist.co/anime/156067) (22:09 21 March 2023)
 -   📺 Watched episode 2 - 10 of [The Seven Deadly Sins: Revival of the Commandments](https://anilist.co/anime/99539) (12:44 21 March 2023)
 -   📺 Completed [The Seven Deadly Sins: Signs of A Holy War](https://anilist.co/anime/21385) (01:48 21 March 2023)
--   📺 Watched episode 11 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (01:04 21 March 2023)
--   📺 Completed [The Seven Deadly Sins OVA](https://anilist.co/anime/21104) (11:17 20 March 2023)
--   📺 Watched episode 2 of [The Seven Deadly Sins OVA](https://anilist.co/anime/21104) (11:17 20 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
