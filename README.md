@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (01:04 21 March 2023)
 -   📺 Completed [The Seven Deadly Sins OVA](https://anilist.co/anime/21104) (11:17 20 March 2023)
 -   📺 Watched episode 2 of [The Seven Deadly Sins OVA](https://anilist.co/anime/21104) (11:17 20 March 2023)
 -   📺 Completed [The Seven Deadly Sins](https://anilist.co/anime/20789) (11:17 20 March 2023)
 -   📺 Watched episode 11 - 20 of [The Seven Deadly Sins](https://anilist.co/anime/20789) (09:22 20 March 2023)
--   📺 Plans to watch [Tomodachi no Imouto ga Ore ni dake Uzai](https://anilist.co/anime/129195) (02:25 20 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
