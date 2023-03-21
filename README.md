@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [The Seven Deadly Sins: Revival of the Commandments](https://anilist.co/anime/99539) (07:48 21 March 2023)
+-   📺 Watched episode 2 - 4 of [The Seven Deadly Sins: Revival of the Commandments](https://anilist.co/anime/99539) (09:40 21 March 2023)
 -   📺 Completed [The Seven Deadly Sins: Signs of A Holy War](https://anilist.co/anime/21385) (01:48 21 March 2023)
 -   📺 Watched episode 11 of [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (01:04 21 March 2023)
 -   📺 Completed [The Seven Deadly Sins OVA](https://anilist.co/anime/21104) (11:17 20 March 2023)
