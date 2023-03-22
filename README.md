@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 13 of [The Seven Deadly Sins: Imperial Wrath of the Gods](https://anilist.co/anime/108928) (20:47 22 March 2023)
+-   📺 Watched episode 2 - 14 of [The Seven Deadly Sins: Imperial Wrath of the Gods](https://anilist.co/anime/108928) (21:10 22 March 2023)
 -   📺 Completed [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://anilist.co/anime/153629) (13:36 22 March 2023)
 -   📺 Completed [The Seven Deadly Sins: Revival of the Commandments](https://anilist.co/anime/99539) (06:52 22 March 2023)
 -   📺 Watched episode 22 - 23 of [The Seven Deadly Sins: Revival of the Commandments](https://anilist.co/anime/99539) (06:52 22 March 2023)
