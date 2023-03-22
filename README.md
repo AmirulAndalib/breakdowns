@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 4 of [The Seven Deadly Sins: Imperial Wrath of the Gods](https://anilist.co/anime/108928) (09:40 22 March 2023)
+-   📺 Watched episode 2 - 6 of [The Seven Deadly Sins: Imperial Wrath of the Gods](https://anilist.co/anime/108928) (11:40 22 March 2023)
 -   📺 Completed [The Seven Deadly Sins: Revival of the Commandments](https://anilist.co/anime/99539) (06:52 22 March 2023)
 -   📺 Watched episode 22 - 23 of [The Seven Deadly Sins: Revival of the Commandments](https://anilist.co/anime/99539) (06:52 22 March 2023)
 -   📺 Completed [The Ice Guy and His Cool Female Colleague](https://anilist.co/anime/151252) (22:49 21 March 2023)
