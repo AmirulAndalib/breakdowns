@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [The Seven Deadly Sins: Dragon's Judgement](https://anilist.co/anime/116752) (05:46 23 March 2023)
+-   📺 Watched episode 2 - 4 of [The Seven Deadly Sins: Dragon's Judgement](https://anilist.co/anime/116752) (09:10 23 March 2023)
 -   📺 Completed [The Seven Deadly Sins: Imperial Wrath of the Gods](https://anilist.co/anime/108928) (04:10 23 March 2023)
 -   📺 Watched episode 2 - 18 of [The Seven Deadly Sins: Imperial Wrath of the Gods](https://anilist.co/anime/108928) (01:17 23 March 2023)
 -   📺 Watched episode 2 - 19 of [The Seven Deadly Sins: Imperial Wrath of the Gods](https://anilist.co/anime/108928) (01:17 23 March 2023)
