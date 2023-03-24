@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Fire Force](https://anilist.co/anime/105310) (10:41 24 March 2023)
+-   📺 Watched episode 2 - 4 of [Fire Force](https://anilist.co/anime/105310) (12:26 24 March 2023)
 -   📺 Completed [The Seven Deadly Sins: Cursed by Light](https://anilist.co/anime/128740) (09:37 24 March 2023)
 -   📺 Completed [The Seven Deadly Sins the Movie: Prisoners of the Sky](https://anilist.co/anime/99540) (09:36 24 March 2023)
 -   📺 Completed [The Seven Deadly Sins: Dragon's Judgement](https://anilist.co/anime/116752) (07:43 24 March 2023)
