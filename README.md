@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (14:56 24 March 2023)
+-   📺 Plans to watch [Sugar Apple Fairy Tale Season 2](https://anilist.co/anime/163079) (14:38 24 March 2023)
+-   📺 Watched episode 2 - 6 of [Fire Force](https://anilist.co/anime/105310) (14:10 24 March 2023)
 -   📺 Plans to watch [Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen](https://anilist.co/anime/163076) (13:06 24 March 2023)
--   📺 Watched episode 2 - 4 of [Fire Force](https://anilist.co/anime/105310) (12:26 24 March 2023)
 -   📺 Completed [The Seven Deadly Sins: Cursed by Light](https://anilist.co/anime/128740) (09:37 24 March 2023)
--   📺 Completed [The Seven Deadly Sins the Movie: Prisoners of the Sky](https://anilist.co/anime/99540) (09:36 24 March 2023)
--   📺 Completed [The Seven Deadly Sins: Dragon's Judgement](https://anilist.co/anime/116752) (07:43 24 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
