@@ -14,8 +14,8 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 12 of [Fire Force](https://anilist.co/anime/105310) (01:08 25 March 2023)
 -   📺 Watched episode 11 of [Buddy Daddies](https://anilist.co/anime/155907) (22:37 24 March 2023)
--   📺 Watched episode 2 - 10 of [Fire Force](https://anilist.co/anime/105310) (22:06 24 March 2023)
 -   📺 Watched episode 11 of [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (20:03 24 March 2023)
 -   📺 Completed [Farming Life in Another World](https://anilist.co/anime/146850) (15:23 24 March 2023)
 -   📺 Completed [Sugar Apple Fairy Tale](https://anilist.co/anime/139821) (14:56 24 March 2023)
