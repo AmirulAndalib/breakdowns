@@ -14,9 +14,9 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 18 of [Fire Force](https://anilist.co/anime/105310) (14:49 25 March 2023)
 -   📺 Completed [My Hero Academia Season 6](https://anilist.co/anime/139630) (13:37 25 March 2023)
 -   📺 Plans to watch [Boku no Hero Academia 7](https://anilist.co/anime/163139) (11:07 25 March 2023)
--   📺 Watched episode 2 - 16 of [Fire Force](https://anilist.co/anime/105310) (11:06 25 March 2023)
 -   📺 Plans to watch [Kekkon Yubiwa Monogatari](https://anilist.co/anime/160389) (07:14 25 March 2023)
 -   📺 Plans to watch [Maou 2099](https://anilist.co/anime/163135) (07:13 25 March 2023)
 
