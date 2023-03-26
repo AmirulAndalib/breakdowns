@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Enen no Shouboutai: San no Shou](https://anilist.co/anime/149118) (10:02 26 March 2023)
+-   📺 Watched episode 10 of [Fire Force Season 2](https://anilist.co/anime/114236) (09:09 26 March 2023)
 -   📺 Completed [Fire Force](https://anilist.co/anime/105310) (01:51 26 March 2023)
 -   📺 Watched episode 2 - 22 of [Fire Force](https://anilist.co/anime/105310) (01:15 26 March 2023)
 -   📺 Watched episode 12 of [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (21:32 25 March 2023)
--   📺 Completed [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (21:04 25 March 2023)
--   📺 Completed [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (20:24 25 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
