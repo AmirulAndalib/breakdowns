@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [By the Grace of the Gods 2](https://anilist.co/anime/135102) (13:59 26 March 2023)
 -   📺 Completed [Why the hell are you here, Teacher!?](https://anilist.co/anime/104325) (12:23 26 March 2023)
 -   📺 Watched episode 10 - 12 of [Fire Force Season 2](https://anilist.co/anime/114236) (12:21 26 March 2023)
 -   📺 Plans to watch [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397) (10:34 26 March 2023)
 -   📺 Plans to watch [Enen no Shouboutai: San no Shou](https://anilist.co/anime/149118) (10:02 26 March 2023)
--   📺 Completed [Fire Force](https://anilist.co/anime/105310) (01:51 26 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
