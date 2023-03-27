@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 10 of [The Faraway Paladin](https://anilist.co/anime/132473) (15:38 27 March 2023)
+-   📺 Watched episode 2 - 11 of [The Faraway Paladin](https://anilist.co/anime/132473) (16:04 27 March 2023)
 -   📺 Watched episode 2 - 3 of [The Faraway Paladin](https://anilist.co/anime/132473) (13:09 27 March 2023)
 -   📺 Plans to watch [Saihate no Paladin 2](https://anilist.co/anime/143085) (11:38 27 March 2023)
 -   📺 Plans to watch [3-nen Z-gumi Ginpachi-sensei](https://anilist.co/anime/162890) (09:53 27 March 2023)
