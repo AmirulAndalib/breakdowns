@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 10 - 14 of [Fire Force Season 2](https://anilist.co/anime/114236) (00:14 27 March 2023)
+-   📺 Watched episode 10 - 16 of [Fire Force Season 2](https://anilist.co/anime/114236) (06:00 27 March 2023)
 -   📺 Completed [Handyman Saitou in Another World](https://anilist.co/anime/144092) (20:03 26 March 2023)
 -   📺 Completed [By the Grace of the Gods 2](https://anilist.co/anime/135102) (13:59 26 March 2023)
 -   📺 Completed [Why the hell are you here, Teacher!?](https://anilist.co/anime/104325) (12:23 26 March 2023)
