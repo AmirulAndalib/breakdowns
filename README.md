@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Infinite Stratos](https://anilist.co/anime/9041) (20:56 27 March 2023)
+-   📺 Completed [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (20:49 27 March 2023)
+-   📺 Completed [The Faraway Paladin](https://anilist.co/anime/132473) (20:14 27 March 2023)
 -   📺 Watched episode 2 - 11 of [The Faraway Paladin](https://anilist.co/anime/132473) (16:04 27 March 2023)
 -   📺 Watched episode 2 - 3 of [The Faraway Paladin](https://anilist.co/anime/132473) (13:09 27 March 2023)
--   📺 Plans to watch [Saihate no Paladin 2](https://anilist.co/anime/143085) (11:38 27 March 2023)
--   📺 Plans to watch [3-nen Z-gumi Ginpachi-sensei](https://anilist.co/anime/162890) (09:53 27 March 2023)
--   📺 Completed [Fire Force Season 2](https://anilist.co/anime/114236) (09:49 27 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
