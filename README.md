@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Infinite Stratos](https://anilist.co/anime/9041) (09:29 28 March 2023)
+-   📺 Plans to watch [The Ancient Magus’ Bride Season 2](https://anilist.co/anime/154364) (09:03 28 March 2023)
 -   📺 Watched episode 2 - 12 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (09:02 28 March 2023)
 -   📺 Watched episode 2 - 4 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (01:01 28 March 2023)
 -   📺 Plans to watch [HIGH CARD season 2](https://anilist.co/anime/163151) (00:36 28 March 2023)
--   📺 Watched episode 2 - 4 of [Infinite Stratos](https://anilist.co/anime/9041) (22:09 27 March 2023)
--   📺 Completed [Reborn to Master the Blade: From Hero-King to Extraordinary Squire](https://anilist.co/anime/142193) (20:49 27 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
