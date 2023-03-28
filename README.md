@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 22 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (21:26 28 March 2023)
+-   📺 Watched episode 2 - 21 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (21:26 28 March 2023)
 -   📺 Completed [Campfire Cooking in Another World with my Absurd Skill](https://anilist.co/anime/156067) (20:33 28 March 2023)
--   📺 Watched episode 2 - 20 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (14:37 28 March 2023)
 -   📺 Dropped [Infinite Stratos](https://anilist.co/anime/9041) (09:29 28 March 2023)
 -   📺 Plans to watch [The Ancient Magus’ Bride Season 2](https://anilist.co/anime/154364) (09:03 28 March 2023)
--   📺 Watched episode 2 - 4 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (01:01 28 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
