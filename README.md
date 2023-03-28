@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 6 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (06:23 28 March 2023)
+-   📺 Watched episode 2 - 8 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (07:11 28 March 2023)
 -   📺 Watched episode 2 - 4 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (01:01 28 March 2023)
 -   📺 Plans to watch [HIGH CARD season 2](https://anilist.co/anime/163151) (00:36 28 March 2023)
 -   📺 Watched episode 2 - 4 of [Infinite Stratos](https://anilist.co/anime/9041) (22:09 27 March 2023)
