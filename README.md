@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Malevolent Spirits: Mononogatari Cour 2](https://anilist.co/anime/163205) (01:59 29 March 2023)
+-   📺 Watched episode 2 of [Malevolent Spirits: Mononogatari](https://anilist.co/anime/141785) (01:58 29 March 2023)
 -   📺 Completed [The Ancient Magus' Bride: Those Awaiting a Star](https://anilist.co/anime/21688) (00:44 29 March 2023)
 -   📺 Completed [The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm](https://anilist.co/anime/130713) (00:24 29 March 2023)
 -   📺 Completed [The Ancient Magus' Bride](https://anilist.co/anime/98436) (22:44 28 March 2023)
--   📺 Watched episode 2 - 22 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (21:26 28 March 2023)
--   📺 Watched episode 2 - 21 of [The Ancient Magus' Bride](https://anilist.co/anime/98436) (21:26 28 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
