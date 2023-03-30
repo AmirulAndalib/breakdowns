@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 5 of [Bungo Stray Dogs](https://anilist.co/anime/21311) (06:17 30 March 2023)
+-   📺 Plans to watch [Bungou Stray Dogs 5th Season](https://anilist.co/anime/163263) (08:50 30 March 2023)
+-   📺 Watched episode 2 - 8 of [Bungo Stray Dogs](https://anilist.co/anime/21311) (08:28 30 March 2023)
 -   📺 Plans to watch [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (00:09 30 March 2023)
 -   📺 Completed [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (22:14 29 March 2023)
 -   📺 Dropped [Science Fell in Love, So I Tried to Prove It](https://anilist.co/anime/107067) (20:17 29 March 2023)
--   📺 Completed [Malevolent Spirits: Mononogatari](https://anilist.co/anime/141785) (10:12 29 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
