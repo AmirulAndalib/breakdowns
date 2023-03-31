@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Bungo Stray Dogs 3](https://anilist.co/anime/103223) (13:34 31 March 2023)
+-   📺 Watched episode 1 - 6 of [Bungo Stray Dogs 3](https://anilist.co/anime/103223) (14:59 31 March 2023)
 -   📺 Completed [Bungo Stray Dogs 2: Walking Alone](https://anilist.co/anime/21791) (09:04 31 March 2023)
 -   📺 Completed [Bungo Stray Dogs 2](https://anilist.co/anime/21679) (09:03 31 March 2023)
 -   📺 Watched episode 2 - 10 of [Bungo Stray Dogs 2](https://anilist.co/anime/21679) (07:49 31 March 2023)
