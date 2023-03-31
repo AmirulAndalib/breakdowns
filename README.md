@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (19:42 31 March 2023)
 -   📺 Watched episode 1 - 6 of [Bungo Stray Dogs 3](https://anilist.co/anime/103223) (14:59 31 March 2023)
 -   📺 Completed [Bungo Stray Dogs 2: Walking Alone](https://anilist.co/anime/21791) (09:04 31 March 2023)
 -   📺 Completed [Bungo Stray Dogs 2](https://anilist.co/anime/21679) (09:03 31 March 2023)
 -   📺 Watched episode 2 - 10 of [Bungo Stray Dogs 2](https://anilist.co/anime/21679) (07:49 31 March 2023)
--   📺 Watched episode 2 - 6 of [Bungo Stray Dogs 2](https://anilist.co/anime/21679) (00:50 31 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
