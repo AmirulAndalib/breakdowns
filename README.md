@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (22:04 01 April 2023)
 -   📺 Watched episode 1 of [The Dangers in My Heart](https://anilist.co/anime/153152) (20:23 01 April 2023)
 -   📺 Plans to watch [Go-toubun no Hanayome∽](https://anilist.co/anime/163327) (19:49 01 April 2023)
 -   📺 Watched episode 2 - 6 of [The Dungeon of Black Company](https://anilist.co/anime/120608) (13:47 01 April 2023)
 -   📺 Completed [Bungo Stray Dogs 3](https://anilist.co/anime/103223) (05:46 01 April 2023)
--   📺 Watched episode 7 - 10 of [Bungo Stray Dogs 3](https://anilist.co/anime/103223) (04:36 01 April 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
