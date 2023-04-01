@@ -14,10 +14,10 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [The Dungeon of Black Company](https://anilist.co/anime/120608) (06:41 01 April 2023)
 -   📺 Completed [Bungo Stray Dogs 3](https://anilist.co/anime/103223) (05:46 01 April 2023)
 -   📺 Watched episode 7 - 10 of [Bungo Stray Dogs 3](https://anilist.co/anime/103223) (04:36 01 April 2023)
 -   📺 Plans to watch [Ojou to Banken-kun](https://anilist.co/anime/155527) (04:32 01 April 2023)
 -   📺 Completed [Buddy Daddies](https://anilist.co/anime/155907) (20:15 31 March 2023)
--   📺 Completed [The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2](https://anilist.co/anime/146954) (19:42 31 March 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
