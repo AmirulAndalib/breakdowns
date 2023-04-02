@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 8 of [The Dungeon of Black Company](https://anilist.co/anime/120608) (01:32 02 April 2023)
+-   📺 Watched episode 2 - 10 of [The Dungeon of Black Company](https://anilist.co/anime/120608) (06:58 02 April 2023)
 -   📺 Watched episode 1 of [Hell’s Paradise](https://anilist.co/anime/128893) (00:38 02 April 2023)
 -   📺 Watched episode 1 of [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (23:23 01 April 2023)
 -   📺 Completed [The Reincarnation of the Strongest Exorcist in Another World](https://anilist.co/anime/144553) (22:04 01 April 2023)
