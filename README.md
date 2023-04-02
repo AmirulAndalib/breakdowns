@@ -14,7 +14,7 @@
 ## Recent AniList activity:
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Bungo Stray Dogs 4](https://anilist.co/anime/141249) (13:39 02 April 2023)
+-   📺 Watched episode 1 - 5 of [Bungo Stray Dogs 4](https://anilist.co/anime/141249) (14:46 02 April 2023)
 -   📺 Watched episode 1 of [EDENS ZERO 2nd Season](https://anilist.co/anime/144932) (11:13 02 April 2023)
 -   📺 Completed [The Dungeon of Black Company](https://anilist.co/anime/120608) (08:26 02 April 2023)
 -   📺 Plans to watch [Kaiju No.8](https://anilist.co/anime/153288) (08:07 02 April 2023)
